@@ -1,4 +1,11 @@
-# Entity Framework Apprentice 1
+---
+layout: default
+title: Entity Framework Developer 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# Entity Framework Developer 1
 
 A developer who can implement an ORM in a .NET application to communicate with the database without direct SQL queries.
 

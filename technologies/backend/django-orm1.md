@@ -1,4 +1,11 @@
-# Django ORM Apprentice 1
+---
+layout: default
+title: Django ORM Developer 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# Django ORM Developer 1
 
 A developer who is able to use the Django ORM to run simple CRUD operations against a database in a Django application.
 

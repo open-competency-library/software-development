@@ -1,4 +1,11 @@
-# .NET Libraries Apprentice 1
+---
+layout: default
+title: .NET Libraries Developer 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# .NET Libraries Developer 1
 
 A developer who can utilize various popular .NET libraries to save time and extend functionality.
 

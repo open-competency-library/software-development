@@ -1,4 +1,11 @@
-# TypeOrm Apprentice 1
+---
+layout: default
+title: TypeOrm Developer 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# TypeOrm Developer 1
 
 A developer who can implement an ORM in a NodeJS application to communicate with the database without direct SQL queries.
 

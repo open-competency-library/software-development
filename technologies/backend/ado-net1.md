@@ -1,3 +1,10 @@
+---
+layout: default
+title: ADO.NET Developer 3
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
 # ADO.NET Developer 1
 
 A developer who is able to use ADO.NET to connect .NET applications to databases.

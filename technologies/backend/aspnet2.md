@@ -1,4 +1,11 @@
-# ASP.NET Apprentice 2
+---
+layout: default
+title: ASP.NET Developer 2
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# ASP.NET Developer 2
 
 A developer who can build web-based applications using Microsoft ASP.NET.
 

@@ -1,4 +1,11 @@
-# GraphQL Apprentice 2
+---
+layout: default
+title: GraphQL Developer 2
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# GraphQL Developer 2
 
 A developer who can implement GraphQL in a full-stack application.
 

@@ -1,4 +1,11 @@
-# WebSockets Apprentice 1
+---
+layout: default
+title: WebSockets Developer 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# WebSockets Developer 1
 
 A developer who can implement WebSockets at a basic level and can assist in decisions where WebSockets might be a relevant solution.
 

@@ -1,4 +1,11 @@
-# Email Sending Apprentice 1
+---
+layout: default
+title: Email Sender 1
+parent: Back-end
+grand_parent: Technologies
+nav_order: 3
+---
+# Email Sender 1
 
 A developer who can implement systems that send emails
 
