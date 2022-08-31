@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario Avanzado de la Línea de Comandos
 
 Ser un usuario que puede utilizar las características básicas de una terminal.

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Buscador de ayuda
 
 En CodeX Academy creemos que una característica esencial de un desarrollador efectivo y profesional es tener la habilidad de realizar preguntas que otros desarrolladores puedan entender y contestar. Una buena pregunta no solo enriquece el conocimiento sino que también construye una comunidad e inspira crecimiento. El poseedor de esta insignia es un desarrollador que puede formular preguntas significativas, entendibles y contestables sobre retos o problemas relacionados con la programación.

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Kata
 
 [English version](kata.md)

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de NPM 2
 
 [English version](npm2.md)

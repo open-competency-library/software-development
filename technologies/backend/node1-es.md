@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de NodeJS 1
 
 [English version](node1.md)

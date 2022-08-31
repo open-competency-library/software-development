@@ -1,4 +1,10 @@
-# Architecture Apprentice 3
+---
+layout: default
+title: Domain-Driven Developer 3
+parent: Architecture
+nav_order: 3
+---
+# Domain-Driven Developer 3
 
 A developer who can implement tactical system architecture to support a strategic and domain-driven design.
 

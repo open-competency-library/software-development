@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador API REST 1
 
 Un desarrollador de software que puede interactuar con API REST simples.

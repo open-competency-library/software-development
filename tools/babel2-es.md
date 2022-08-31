@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Babel 2
 
 [English version](babel2.md)

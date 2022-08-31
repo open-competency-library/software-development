@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Webpack 2
 
 [English version](webpack2.md)

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Aprendiz VS Code 1
 
 Ser capaz de usar eficientemente VS Code y herramientas relacionadas.

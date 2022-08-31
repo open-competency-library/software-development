@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Aprendiz de React 2
 
 [English version](react2.md)

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Git 2
 
 Alguien que esté aprendiendo a usar el sistema de control de fuente Git.

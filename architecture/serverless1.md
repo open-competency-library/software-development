@@ -1,4 +1,10 @@
-# Serverless Apprentice 1
+---
+layout: default
+title: Serverless Developer 1
+parent: Architecture
+nav_order: 7
+---
+# Serverless Developer 1
 
 A developer who can work with the Serverless framework to build scalable back-ends.
 

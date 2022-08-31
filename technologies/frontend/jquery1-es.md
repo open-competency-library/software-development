@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador jQuery 1
 
 Un desarrollador de software que puede codificar de forma independiente utilizando JQuery para crear aplicaciones complejas en el navegador.

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Proyecto final: Desarrollador Front-End Nivel 1
 
 Completar un proyecto simple y desplegarlo a un sitio web públicamente accesible.

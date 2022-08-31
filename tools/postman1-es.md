@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Postman 1
 
 Un usuario de Postman que puede usar sus funciones para acceder a las API mediante solicitudes HTTP.

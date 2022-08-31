@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Herramientas de Desarrollo Chrome 2
 
 Alguien capaz de usar la funcionalidad básica de las herramientas de desarrollo en Google Chrome.

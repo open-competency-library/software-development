@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Proyecto final: Desarrollador Front-End Junior
 
 Completar un proyecto simple de HTML y CSS y desplegarlo a un sitio web públicamente accesible.

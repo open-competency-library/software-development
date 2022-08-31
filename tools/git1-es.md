@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Git 1
 
 Ser alguien que pueda usar los comandos básicos de Git y entender para que funciona.

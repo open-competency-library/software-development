@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Heroku 2
 
 [English version](heroku2.md)

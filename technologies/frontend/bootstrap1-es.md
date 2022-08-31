@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador Bootstrap 1
 
 Un desarrollador de software que puede usar Bootstrap para simplificar el uso de CSS en un sitio web y formatear el contenido de manera adecuada.

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # NPM Usuario avanzado 1
 
 Un desarrollador que pueda utilizar npm y sus paquetes para mejorar las aplicaciones basadas en javascript.

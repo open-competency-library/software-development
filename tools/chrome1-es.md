@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Aprendiz de Herramientas de Desarrollo Chrome 1
 
 Ser capaz de usar la funcionalidad básica de las herramientas de desarrollo en Google Chrome.

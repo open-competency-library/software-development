@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Aprendiz de SQL 1
 
 [English version](sql1.md)

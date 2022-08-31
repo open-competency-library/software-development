@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Heroku 1
 
 Ser un desarrollador que puede desplegar una aplicación a Heroku.

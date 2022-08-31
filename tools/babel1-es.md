@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Babel 1
 
 Un desarrollador que puede trabajar con Babel para transpilar código javascript a código ES6 estándar.

@@ -1,4 +1,11 @@
-# CQRS Apprentice 2
+---
+layout: default
+title: CQRS Developer 2
+parent: Architecture
+nav_order: 5
+---
+# CQRS Developer 2
+
 
 A developer who can build systems that take advantage of the segregation of commands and queries, including event sourcing.
 

@@ -2,6 +2,7 @@
 layout: default
 title: SOLID Developer 3
 parent: SOLID Priniples
+grand_parent: Engineering
 nav_order: 2
 ---
 # SOLID Developer 3

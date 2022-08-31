@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Usuario avanzado de Lodash 1
 
 Un desarrollador que puede usar Lodash de manera experta para escribir código javascript funcional.

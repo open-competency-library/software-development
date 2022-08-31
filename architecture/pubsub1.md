@@ -1,4 +1,10 @@
-# PubSub Apprentice 1
+---
+layout: default
+title: PubSub Developer 1
+parent: Architecture
+nav_order: 7
+---
+# PubSub Developer 1
 
 A developer who can architect and develop solutions using the pub sub architectural paradigm.
 

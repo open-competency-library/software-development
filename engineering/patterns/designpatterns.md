@@ -2,6 +2,7 @@
 layout: default
 title: Design Patterns 1
 parent: Design Patterns
+grand_parent: Engineering
 nav_order: 2
 ---
 # Design Patterns 1

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de React 1
 
 Un desarrollador que puede usar ReactJS de manera efectiva para crear aplicaciones front-end inmersivas.

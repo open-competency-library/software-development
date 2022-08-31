@@ -1,4 +1,10 @@
-# Architecture Apprentice 1
+---
+layout: default
+title: Domain-Driven Developer 1
+parent: Architecture
+nav_order: 1
+---
+# Domain-Driven Developer 1
 
 A developer who can tactically support simple architecture influenced by Domain-Driven Design.
 

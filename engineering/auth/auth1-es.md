@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Seguridad 1
 
 Un desarrollador que puede desarrollar aplicaciones front-end seguras basadas en la web.

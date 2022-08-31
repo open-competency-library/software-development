@@ -1,4 +1,10 @@
-# CQRS Apprentice 1
+---
+layout: default
+title: CQRS Developer 1
+parent: Architecture
+nav_order: 4
+---
+# CQRS Developer 1
 
 A developer who can build systems that take advantage of the segregation of commands and queries.
 

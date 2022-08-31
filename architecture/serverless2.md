@@ -1,4 +1,10 @@
-# Serverless Apprentice 2
+---
+layout: default
+title: Serverless Developer 2
+parent: Architecture
+nav_order: 8
+---
+# Serverless Developer 2
 
 A developer who can work with the Serverless framework to build and trigger cloud-based tasks.
 

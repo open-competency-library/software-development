@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de Firebase 1
 
 Un desarrollador que puede usar Firebase para desarrollar aplicaciones web seguras basadas en datos.

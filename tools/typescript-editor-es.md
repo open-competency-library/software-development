@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Editor de TypeScript Avanzado
 
 [English version](typescript-editor.md)
