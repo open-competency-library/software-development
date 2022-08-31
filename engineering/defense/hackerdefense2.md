@@ -1,4 +1,10 @@
-# Hacker Defense Apprentice 2
+---
+layout: default
+title: Defensive Defense 2
+parent: Defense
+nav_order: 2
+---
+# Hacker Defense 2
 
 A developer who is able to create applications that are resistant to hacker attacks
 

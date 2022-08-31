@@ -1,4 +1,10 @@
-# Static Analysis Apprentice 2
+---
+layout: default
+title: Static Analyzer 2
+parent: Engineering
+nav_order: 2
+---
+# Static Analyzer 2
 
 An aspiring architect who can work towards improving code quality by watching static code analysis and metrics.
 

@@ -1,4 +1,10 @@
-# Defensive Programming Apprentice 2
+---
+layout: default
+title: Defensive Programmer 2
+parent: Engineering
+nav_order: 2
+---
+# Defensive Programmer 2
 
 A developer who can develop software defensively to produce higher quality code.
 

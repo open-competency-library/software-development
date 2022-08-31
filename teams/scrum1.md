@@ -1,4 +1,10 @@
-# Scrum Apprentice 1
+---
+layout: default
+title: Scrum Developer 1
+parent: Teams
+#nav_order: 2
+---
+# Scrum Developer 1
 
 A developer who can work efficiently in a Scrum context.
 

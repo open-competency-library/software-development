@@ -1,4 +1,10 @@
-# Code Review Apprentice 1
+---
+layout: default
+title: Code Reviewer 1
+parent: Teams
+#nav_order: 2
+---
+# Code Reviewer 1
 
 A developer who can effectively review and give feedback on code written by developers.
 

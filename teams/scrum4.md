@@ -1,4 +1,10 @@
-# Agile Apprentice 4
+---
+layout: default
+title: Scrum Developer 4
+parent: Teams
+#nav_order: 2
+---
+# Scrum Developer 4
 
 A developer who can work effectively as part of a Scrum development team.
 

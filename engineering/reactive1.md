@@ -1,4 +1,10 @@
-# Reactive Programming Apprentice 1
+---
+layout: default
+title: Reactive Developer 1
+parent: Engineering
+nav_order: 2
+---
+# Reactive Developer 1
 
 A developer who can develop software using reactive programming techniques and patterns.
 

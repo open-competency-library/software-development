@@ -1,4 +1,10 @@
-# Design Patterns
+---
+layout: default
+title: Design Patterns 1
+parent: Design Patterns
+nav_order: 2
+---
+# Design Patterns 1
 
 A developer who can proficiently implement the named design pattern as well as recognize situations where it is appropriate.
 

@@ -1,4 +1,10 @@
-# Pair Programming Apprentice 1
+---
+layout: default
+title: Pair Programmer 1
+parent: Teams
+nav_order: 2
+---
+# Pair Programmer 1
 
 A developer who can engage other developers in productive pair programming.
 

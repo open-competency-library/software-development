@@ -1,4 +1,10 @@
-# Agile Apprentice 2
+---
+layout: default
+title: Scrum Developer 2
+parent: Teams
+#nav_order: 2
+---
+# Scrum Developer 2
 
 A developer who can work effectively as part of a Scrum development team.
 

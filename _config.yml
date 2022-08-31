@@ -3,7 +3,6 @@ remote_theme: just-the-docs/just-the-docs
 description: An open-source repository of software development-related competencies.
 show_downloads: false
 markdown: kramdown
-baseurl: badges
 collections: 
   levels:
     output: true

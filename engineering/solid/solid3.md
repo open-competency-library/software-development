@@ -1,4 +1,10 @@
-# SOLID Principles Apprentice 3
+---
+layout: default
+title: SOLID Developer 3
+parent: SOLID Priniples
+nav_order: 2
+---
+# SOLID Developer 3
 
 A developer who strives to write code that adheres to the SOLID principles.
 

@@ -1,4 +1,10 @@
-# Agile Apprentice 3
+---
+layout: default
+title: Scrum Developer 3
+parent: Teams
+#nav_order: 2
+---
+# Scrum developer 3
 
 A developer who can work effectively as part of a Scrum development team.
 
