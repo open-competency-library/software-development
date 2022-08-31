@@ -1,6 +1,6 @@
-title: CodeX Academy Competency Library
-theme: jekyll-theme-midnight
-description: Online home of CodeX Academy's library of technical competencies.
+title: Software Development - Open Competency Library
+remote_theme: just-the-docs/just-the-docs
+description: An open-source repository of software development-related competencies.
 show_downloads: false
 markdown: kramdown
 baseurl: badges
