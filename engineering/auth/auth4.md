@@ -1,4 +1,10 @@
-# Auth Apprentice 4
+---
+layout: default
+title: Auth 4
+parent: Auth
+nav_order: 2
+---
+# Secure Developer 4
 
 A developer who can secure front-end systems using OIDC.
 

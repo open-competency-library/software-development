@@ -1,4 +1,10 @@
-# Auth Apprentice 5
+---
+layout: default
+title: Secure Developer 5
+parent: Auth
+nav_order: 2
+---
+# Secure Developer 5
 
 A developer who can secure front-end and back-end systems using oAuth and OIDC.
 

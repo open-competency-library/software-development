@@ -1,4 +1,10 @@
-# Auth Apprentice 2
+---
+layout: default
+title: Auth 2
+parent: Auth
+nav_order: 2
+---
+# Secure Developer 2
 
 A developer who can secure front-end and back-end systems using simple authentication techniques.
 

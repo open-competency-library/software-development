@@ -1,4 +1,10 @@
-# Auth Apprentice 3
+---
+layout: default
+title: Auth 3
+parent: Auth
+nav_order: 2
+---
+# Secure Developer 3
 
 A developer who can secure front-end and back-end systems using oAuth security flows.
 

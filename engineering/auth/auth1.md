@@ -1,3 +1,9 @@
+---
+layout: default
+title: Auth 1
+parent: Auth
+nav_order: 2
+---
 # Secure Developer 1
 
 A developer who is able to develop secure web-based front-end applications.
