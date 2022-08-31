@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Full-Stack Developer Level 4 Capstone Project
 
 [Spanish version](capstone4-es.md)

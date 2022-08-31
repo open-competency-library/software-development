@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Junior Front-End Developer Capstone Project
 
 Complete a simple HTML/CSS project and deploy to a publicly accessible website.

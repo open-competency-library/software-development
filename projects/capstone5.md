@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Full-Stack Developer Level 5 Capstone Project
 
 Create a secure, data-driven web application and deploy it to a public url.

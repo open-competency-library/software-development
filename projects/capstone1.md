@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Front-End Developer Level 1 Capstone Project
 
 Complete a simple project and deploy to a publicly accessible website.

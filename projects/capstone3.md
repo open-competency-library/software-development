@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Front-End Developer Level 3 Capstone Project
 
 Create a data-driven web application and deploy it to a public url.

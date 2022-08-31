@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Full-Stack Developer Level 6 Capstone Project
 
 Create a secure backend-driven web application and deploy it to a public url.

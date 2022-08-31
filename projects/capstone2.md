@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Front-End Developer Level 2 Capstone Project
 
 Create a dynamic web application and deploy it to a public url.
