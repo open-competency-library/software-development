@@ -2,7 +2,6 @@
 layout: default
 title: Bash Developer 1
 parent: DevOps
-grand_parent: Technologies
 nav_order: 3
 ---
 # Bash Developer 1

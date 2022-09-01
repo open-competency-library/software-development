@@ -2,7 +2,6 @@
 layout: default
 title: Azure Cloud Developer 1
 parent: DevOps
-grand_parent: Technologies
 nav_order: 3
 ---
 # Azure Cloud Developer 1

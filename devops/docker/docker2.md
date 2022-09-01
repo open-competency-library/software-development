@@ -2,7 +2,6 @@
 layout: default
 title: Docker Developer 2
 parent: DevOps
-grand_parent: Technologies
 nav_order: 3
 ---
 # Docker Developer 2

@@ -1,21 +1,23 @@
 ---
 layout: default
-title: CI/CD Developer 1
+title: CI/CD Developer 2
 parent: DevOps
-grand_parent: Technologies
 nav_order: 3
 ---
-# CI/CD Developer 1
+# CI/CD Developer 2
 
-A developer who can build and manage CI pipelines.
+
+A developer who can build and manage full CI/CD pipelines.
 
 ## Master the following skills:
 
 - Describe devops as it relates to culture, departments and roles
-- List a few of the more popular SaaS CI/CD options
-- Describe the purpose and process of CI
-- Configure a pipeline using YAML
-- Build a pipeline CI that automatically compiles code, runs tests and packages deliverables on every push
+- Compare/contrast Continuous Integration, Continuous Deployment and Continuous Delivery
+- Describe the purpose and process of Continuous Deployment
+- Configure the CD portion of a pipeline using YAML
+- Build a pipeline CI/CD that accomplishes the following things automatically on every push:
+  - deploys deliverables to a remote web server
+  - migrates a remote database
 
 ## Suggested Learning:
 
@@ -30,7 +32,7 @@ A developer who can build and manage CI pipelines.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=zmJudPw1RfCAAQFTgZ49HQ) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
