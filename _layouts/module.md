@@ -17,7 +17,7 @@ Found a bug? <a href='{{site.github.repository_url}}/issues}}'>Report it</a> or 
 
 <script>
 setTimeout(()=> {
-    const url = "{{link page.id}}";
+    const url = "{{page.url}}";
     const es_url = url.replace(".html","-es.html");
     const link = document.getElementById("spanish-link");
     console.log("es_url", es_url);
