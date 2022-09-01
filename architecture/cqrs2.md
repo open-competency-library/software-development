@@ -3,11 +3,8 @@ layout: module
 title: CQRS Developer 2
 parent: Architecture
 nav_order: 5
+description: A developer who can build systems that take advantage of the segregation of commands and queries, including event sourcing.
 ---
-# CQRS Developer 2
-
-
-A developer who can build systems that take advantage of the segregation of commands and queries, including event sourcing.
 
 ## Master the following skills:
 

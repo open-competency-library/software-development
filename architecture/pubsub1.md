@@ -3,11 +3,8 @@ layout: module
 title: PubSub Developer 1
 parent: Architecture
 nav_order: 7
+description: A developer who can architect and develop solutions using the pub sub architectural paradigm.
 ---
-# PubSub Developer 1
-
-A developer who can architect and develop solutions using the pub sub architectural paradigm.
-
 ## Master the following skills:
 
 - Discuss scenarios where pubsub is appropriate

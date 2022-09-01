@@ -3,11 +3,8 @@ layout: module
 title: Serverless Developer 2
 parent: Architecture
 nav_order: 8
+description: A developer who can work with the Serverless framework to build and trigger cloud-based tasks.
 ---
-# Serverless Developer 2
-
-A developer who can work with the Serverless framework to build and trigger cloud-based tasks.
-
 ## Master the following skills:
 
 - Build Lambda functions that are triggered by events in AWS like:

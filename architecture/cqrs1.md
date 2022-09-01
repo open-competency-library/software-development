@@ -3,11 +3,8 @@ layout: module
 title: CQRS Developer 1
 parent: Architecture
 nav_order: 4
+description: A developer who can tactically support simple architecture influenced by Domain-Driven Design.
 ---
-# CQRS Developer 1
-
-A developer who can build systems that take advantage of the segregation of commands and queries.
-
 ## Master the following skills:
 
 - Define "commands" in the CQRS context

@@ -3,11 +3,8 @@ layout: module
 title: Domain-Driven Developer 3
 parent: Architecture
 nav_order: 3
+description: A developer who can implement tactical system architecture to support a strategic and domain-driven design.
 ---
-# Domain-Driven Developer 3
-
-A developer who can implement tactical system architecture to support a strategic and domain-driven design.
-
 ## Master the following skills:
 
 - Implement back-ends with Hexagonal Architecture

@@ -3,11 +3,8 @@ layout: module
 title: Domain-Driven Developer 1
 parent: Architecture
 nav_order: 1
+description: A developer who can tactically support simple architecture influenced by Domain-Driven Design.
 ---
-# Domain-Driven Developer 1
-
-A developer who can tactically support simple architecture influenced by Domain-Driven Design.
-
 ## Master the following skills:
 
 - Discuss 3 goals of DDD in regards to a software project

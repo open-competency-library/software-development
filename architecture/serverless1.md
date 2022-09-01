@@ -3,11 +3,8 @@ layout: module
 title: Serverless Developer 1
 parent: Architecture
 nav_order: 7
+description: A developer who can work with the Serverless framework to build scalable back-ends.
 ---
-# Serverless Developer 1
-
-A developer who can work with the Serverless framework to build scalable back-ends.
-
 ## Master the following skills:
 
 - Write Lambda functions that perform short-running tasks
