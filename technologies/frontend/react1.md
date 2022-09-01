@@ -1,4 +1,11 @@
-# React Developer 1
+---
+layout: default
+title: React.JS Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# React.JS Developer 1
 
 A developer who is able to effectively use ReactJS to build immersive front-end applications.
 

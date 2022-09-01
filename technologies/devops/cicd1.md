@@ -1,4 +1,11 @@
-# CI/CD Apprentice 1
+---
+layout: default
+title: CI/CD Developer 1
+parent: DevOps
+grand_parent: Technologies
+nav_order: 3
+---
+# CI/CD Developer 1
 
 A developer who can build and manage CI pipelines.
 

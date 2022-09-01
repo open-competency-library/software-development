@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bootstrap Developer 2
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
 # Bootstrap Developer 2
 
 A software developer who is able to use Bootstrap to simplify use of CSS in a website and format content appropriately.

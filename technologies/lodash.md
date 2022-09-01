@@ -1,4 +1,10 @@
-# Lodash Power User 1
+---
+layout: default
+title: Lodash Developer 1
+parent: Technologies
+nav_order: 3
+---
+# Lodash Developer 1
 
 A developer who can expertly use Lodash to write functional javascript code.
 

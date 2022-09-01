@@ -1,4 +1,11 @@
-# Angular Apprentice 1
+---
+layout: default
+title: Angular Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# Angular Developer 1
 
 A developer who can effectively use Angular to build immersive front-end applications.
 

@@ -1,4 +1,11 @@
-# Docker Apprentice 2
+---
+layout: default
+title: Docker Developer 2
+parent: DevOps
+grand_parent: Technologies
+nav_order: 3
+---
+# Docker Developer 2
 
 A developer who can develop using containerization, Docker and Docker Compose.
 

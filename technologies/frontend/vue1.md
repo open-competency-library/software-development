@@ -1,4 +1,11 @@
-# Vue Apprentice 1
+---
+layout: default
+title: Vue.JS Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# Vue.JS Developer 1
 
 A developer who is able to effectively use VueJS to build immersive front-end applications.
 

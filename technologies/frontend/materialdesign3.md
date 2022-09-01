@@ -1,4 +1,11 @@
-# Material Design Apprentice 3
+---
+layout: default
+title: Material Design Developer 3
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# Material Design Developer 3
 
 A software developer who is able to use advanced features of Material Design to extend the functionality of a front-end web application.
 

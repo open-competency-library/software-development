@@ -1,4 +1,11 @@
-# Angular Apprentice 2
+---
+layout: default
+title: Angular Developer 2
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# Angular Developer 2
 
 A developer who can effectively use Angular to build immersive front-end applications.
 

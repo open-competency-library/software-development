@@ -1,4 +1,11 @@
-# jQuery Developer 1
+---
+layout: default
+title: JQuery Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# JQuery Developer 1
 
 A software developer who can code independently using JQuery to build complex applications in the browser.
 

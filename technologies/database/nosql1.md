@@ -1,4 +1,11 @@
-# NoSQL Apprentice 1
+---
+layout: default
+title: NoSQL Developer 1
+parent: Database
+grand_parent: Technologies
+nav_order: 3
+---
+# NoSQL Developer 1
 
 A developer who can implement backend systems using NoSQL databases and NodeJS
 

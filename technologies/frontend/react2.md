@@ -1,4 +1,11 @@
-# React Apprentice 2
+---
+layout: default
+title: React.JS Developer 2
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# React.JS Developer 2
 
 [Spanish version](react2-es.md)
 

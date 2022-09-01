@@ -1,4 +1,11 @@
-# Google Compute Apprentice 1
+---
+layout: default
+title: Google Cloud Developer 1
+parent: DevOps
+grand_parent: Technologies
+nav_order: 3
+---
+# Google Cloud Developer 1
 
 A developer who can deploy full-stack web applications to Google Cloud.
 

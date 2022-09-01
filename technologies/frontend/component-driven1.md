@@ -1,3 +1,10 @@
+---
+layout: default
+title: Component-Driven Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
 # Component-Driven Developer 1
 
 A developer who is able to build front-end applications starting with pure components and building outward.

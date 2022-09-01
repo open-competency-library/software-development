@@ -1,4 +1,11 @@
-# SQL Apprentice 1
+---
+layout: default
+title: SQL Developer 1
+parent: Database
+grand_parent: Technologies
+nav_order: 3
+---
+# SQL Developer 1
 
 [Spanish version](sql1-es.md)
 

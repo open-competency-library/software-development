@@ -1,4 +1,11 @@
-# Material Design Apprentice 1
+---
+layout: default
+title: Material Design Developer 1
+parent: Front-End
+grand_parent: Technologies
+nav_order: 3
+---
+# Material Design Developer 1
 
 A software developer who is able to use Material Design to simplify use of CSS in a website and format content appropriately.
 

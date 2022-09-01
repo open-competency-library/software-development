@@ -1,4 +1,12 @@
-# Docker Apprentice 1
+---
+layout: default
+title: Docker Developer 1
+parent: DevOps
+grand_parent: Technologies
+nav_order: 3
+---
+# Docker Developer 1
+
 
 A developer who can develop using containerization and Docker.
 

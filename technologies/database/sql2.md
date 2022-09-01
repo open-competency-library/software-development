@@ -1,4 +1,11 @@
-# SQL Apprentice 2
+---
+layout: default
+title: SQL Developer 2
+parent: Database
+grand_parent: Technologies
+nav_order: 3
+---
+# SQL Developer 2
 
 Someone who is learning how to use relational databases.
 
