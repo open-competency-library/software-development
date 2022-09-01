@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="float: right; width: 200px"><a id="spanish-link" href="#" style="display: hidden">Español</a></div>
+<span style="float: right; width: 200px"><a id="spanish-link" href="#" style="display: hidden; text-align: right;">Español</a></span>
 <h1>{{page.title}}</h1>
 
 {{page.description}}
@@ -12,10 +12,8 @@ layout: default
 
 <p><hr/></p>
 
-{{}}
-
-Maintained by <a href='https://codex.academy'>CodeX Academy</a> and <a href='https://growstrong.io'>Grow Strong</a>.<br/>
-Found a bug? <a href='{{site.github.repository_url}}/issues}}'>Report it</a> or <a href="{{site.github.repository_url}}/blob/master/{{page.path}}">Edit this page</a>. Want to contribute? <a href="{{ link /contributing.md }}">Pitch in!</a>
+<p>Maintained by <a href='https://codex.academy'>CodeX Academy</a> and <a href='https://growstrong.io'>Grow Strong</a>.<br/>
+Found a bug? <a href='{{site.github.repository_url}}/issues}}'>Report it</a> or <a href="{{site.github.repository_url}}/blob/master/{{page.path}}">Edit this page</a>. Want to contribute? <a href="{{ link /contributing.md }}">Pitch in!</a></p>
 
 <script>
 setTimeout(()=> {
@@ -25,6 +23,6 @@ setTimeout(()=> {
     console.log("es_url", es_url);
     console.log("link", link);
     link.href = es_url;
-    link.style = "display: block";
+    link.style.display = "inline";
 }, 500);
 </script>
