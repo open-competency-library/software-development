@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-#{{title}}
+# {{title}}
+
+{{description}}
 
 {{ content }}
 
-Maintained by [CodeX Academy](https://codex.academy) and [Grow Strong](https://growstrong.io).
-Found a bug? [Report it!](/isssues) Want to contribute? [Pitch in!](contributing.md)
+Maintained by <a href='https://codex.academy'>CodeX Academy</a> and <a href='https://growstrong.io'>Grow Strong</a>.
+Found a bug? <a href='issues'>Report it!</a> Want to contribute? <a href="contributing.html">Pitch in!</a>

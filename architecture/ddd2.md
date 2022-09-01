@@ -1,13 +1,10 @@
 ---
 layout: module
 title: Domain-Driven Developer 2
+description: A developer who can assist business leaders and product owners in building well-communicated and well-architected systems in a Domain-Driven Design context.
 parent: Architecture
 nav_order: 2
 ---
-# Domain-Driven Developer 2
-
-A developer who can assist business leaders and product owners in building well-communicated and well-architected systems in a Domain-Driven Design context.
-
 ## Master the following skills:
 
 - Define Strategic Domain-Driven Design
