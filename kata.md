@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Kata
 
 [Spanish version](kata-es.md)

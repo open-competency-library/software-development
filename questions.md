@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Help Seeker 
 
 CodeX Academy believes an essential characteristic of any effective and professional software developer is the ability to ask questions that others can understand and answer. Great questions not only build knowledge, but also build community and inspire growth. The badge holder is a software developer who can formulate meaningful, understandable and answerable questions to programming-related challenges according to the high standards of CodeX Academy.
