@@ -1,7 +1,7 @@
 ---
 layout: default
 title: .NET Libraries Developer 2
-parent: Back-end
+parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---

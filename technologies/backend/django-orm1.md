@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Django ORM Developer 1
-parent: Back-end
+parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
