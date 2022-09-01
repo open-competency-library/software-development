@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: module
 nav_exclude: true
+level: 1
+badge: hpvFRz6yTtu2VvQPyA8LFg
+description: Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 ---
-# Aprendiz VS Code 1
-
-Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
-
 ## Domina las siguientes habilidades
 
 * Instalar VS Code en tu computadora.
@@ -42,8 +41,8 @@ Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 
 Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=hpvFRz6yTtu2VvQPyA8LFg){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
 
-[.](level-1)
 
 ## Nota
 
 Si tienes problemas con el espaciado entre letras de la terminal integrada de VS Code, deberías revisar este [enlace](https://github.com/microsoft/vscode/issues/35681){:target="_blank"}.
+

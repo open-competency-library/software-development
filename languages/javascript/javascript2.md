@@ -4,6 +4,8 @@ title: JavaScript Developer 2
 parent: JavaScript
 grand_parent: Languages
 nav_order: 7
+level: 1
+badge: UpjeWGtrTNe2gf1MrHK5QA
 ---
 # JavaScript Developer 2
 
@@ -43,5 +45,3 @@ A developer who can code independently and build simple applications using JavaS
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=UpjeWGtrTNe2gf1MrHK5QA){:target="\_blank"} to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-1)

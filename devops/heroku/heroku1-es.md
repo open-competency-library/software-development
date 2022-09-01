@@ -1,6 +1,8 @@
 ---
 layout: default
 nav_exclude: true
+level: 1
+badge: Cq9q8pooSYu6hyNj56SCkA
 ---
 # Desarrollador de Heroku 1
 
@@ -30,5 +32,3 @@ Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda u
 ó
 
 Graba un video donde hablas sobre cada habilidad en la lista de arriba y demostrando el dominio sobre ellas. Asegurate que cada criterio de evaluación y las herramientas necesarias sean visibles en la grabación y que el audio sea lo suficientemente claro para que el evaluador no tenga problemas.
-
-[.](level-1)

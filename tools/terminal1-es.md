@@ -1,11 +1,11 @@
 ---
 layout: default
 nav_exclude: true
+level: 1
+badge: LFVCaj_fQ263FtM0B8ZNfA
+title: Usuario Avanzado de la Línea de Comandos
+description: Ser un usuario que puede utilizar las características básicas de una terminal.
 ---
-# Usuario Avanzado de la Línea de Comandos
-
-Ser un usuario que puede utilizar las características básicas de una terminal.
-
 ## Domina las siguientes habilidades
 
 * Abrir una terminal (Terminal sugerido para Windows: [Git Bash](https://medium.com/laboratoria-how-to/c%C3%B3mo-instalar-git-368c78187b51){:target="_blank"})
@@ -34,5 +34,3 @@ Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda u
 ó
 
 Graba un video donde hablas sobre cada habilidad en la lista de arriba y demostrando el dominio sobre ellas. Asegurate que cada criterio de evaluación y las herramientas necesarias sean visibles en la grabación y que el audio sea lo suficientemente claro para que el evaluador no tenga problemas.
-
-[.](level-1)

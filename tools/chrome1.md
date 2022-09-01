@@ -3,6 +3,8 @@ layout: default
 title: Chrome Dev Tools Power User 1
 parent: Tools
 nav_order: 3
+level: 1
+badge: CwCMwmY-RIOhHS-KOb12oA
 ---
 # Chrome Dev Tools Power User 1
 
@@ -32,5 +34,3 @@ Able to use the basic functionality of the dev tools in Google Chrome.
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=CwCMwmY-RIOhHS-KOb12oA) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-1)

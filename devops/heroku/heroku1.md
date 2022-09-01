@@ -3,6 +3,8 @@ layout: default
 title: Heroku Developer 1
 parent: DevOps
 nav_order: 3
+level: 1
+badge: Cq9q8pooSYu6hyNj56SCkA
 ---
 # Heroku Developer 1
 
@@ -36,5 +38,3 @@ Ask your mentor if you are ready for evaluation. Then, do one of the following:
 or
 
 2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
-
-[.](level-1)

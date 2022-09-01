@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: module
 title: VS Code Power User 1
 parent: Tools
 nav_order: 3
+level: 1
+badge: hpvFRz6yTtu2VvQPyA8LFg
+description: Able to efficiently use VS Code and related tools.
 ---
-# VS Code Power User 1
-
-Able to efficiently use VS Code and related tools.
-
 ## Master the following skills:
 
 - Install VS Code to your computer.
@@ -59,7 +58,6 @@ Able to efficiently use VS Code and related tools.
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=hpvFRz6yTtu2VvQPyA8LFg) to find a time on the calendar. After the evaluation, claim the badge.
 
-[.](level-1)
 
 ## Note
 

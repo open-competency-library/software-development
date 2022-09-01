@@ -4,6 +4,8 @@ title: HTML Developer 1
 parent: HTML
 grand_parent: Languages
 nav_order: 7
+level: 1
+badge: KxA14MJ9TmuDYCSOc6nytw
 ---
 # HTML Developer 1
 
@@ -65,5 +67,3 @@ A developer who can code independently and build simple and well-structured webs
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=KxA14MJ9TmuDYCSOc6nytw) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-1)

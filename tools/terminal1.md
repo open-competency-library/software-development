@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: module
 title: Command Line Power User 1
 parent: Tools
 nav_order: 3
+level: 1
+badge: LFVCaj_fQ263FtM0B8ZNfA
+description: Someone who can use the basic features of a bash terminal.
 ---
-# Command Line Power User 1
-
-Someone who can use the basic features of a bash terminal.
-
 ## Master the following skills:
 
 - Open a bash terminal (Windows users: We suggest you to use [Git Bash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/){:target="\_blank"})
@@ -52,4 +51,3 @@ or
 
 2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
 
-[.](level-1)

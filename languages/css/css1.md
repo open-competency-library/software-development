@@ -4,6 +4,8 @@ title: CSS Developer 1
 parent: CSS
 grand_parent: Languages
 nav_order: 7
+level: 1
+badge: O8cej6IdSwiTET8_a98TdA
 ---
 # CSS Developer 1
 
@@ -40,5 +42,3 @@ A developer who can code independently and build simple and well-styled websites
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=O8cej6IdSwiTET8_a98TdA) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-1)
