@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Contributing
-nav_order: 100
+nav_exclude: true
 ---
 ## Contributing to This Library
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Domain-Driven Developer 2
 parent: Architecture
 nav_order: 2

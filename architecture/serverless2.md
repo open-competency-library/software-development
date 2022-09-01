@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Serverless Developer 2
 parent: Architecture
 nav_order: 8

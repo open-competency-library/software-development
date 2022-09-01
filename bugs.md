@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Bugs and Issues
-nav_order: 101
+nav_exclude: true
 ---
 ## Bugs and Issues
 

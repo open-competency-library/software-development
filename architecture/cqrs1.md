@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: CQRS Developer 1
 parent: Architecture
 nav_order: 4
