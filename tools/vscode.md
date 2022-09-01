@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: module-with-live-eval
 title: VS Code Power User 1
 parent: Tools
 nav_order: 3
@@ -53,12 +53,3 @@ description: Able to efficiently use VS Code and related tools.
 ## Suggested Excercies:
 
 - You can use [this exercise](https://docs.google.com/document/d/e/2PACX-1vSvz6Y9ERJ9pm-8DeuJgoIG461k8sJoRu_O5FDC-M_-ON8JYg4_qzZlLHcrGo0t2NO5jVXuYOztUq4N/pub){:target="\_blank"} to help you solidify your knowledge.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=hpvFRz6yTtu2VvQPyA8LFg) to find a time on the calendar. After the evaluation, claim the badge.
-
-
-## Note
-
-If you have trouble with letter spacing your VS Code's integrated terminal, you should check out [this issue](https://github.com/microsoft/vscode/issues/35681).

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-evals
 nav_exclude: true
 level: 1
 badge: xqS6trYnQmqoETwTIdhIeQ
@@ -31,11 +31,3 @@ Ser alguien que pueda usar los comandos básicos de Git y entender para que func
 * [Udemy's Command Line Essentials (Inglés)](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-uvcZ4.yYfUqcznE3sExmVg){:target="_blank"}
 * [Udemy's Git 5-Day Challenge (Inglés)](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-C4A7acx79m1Ej_KjcGpvag){:target="_blank"}
 * [Git CheatSheet (Inglés)](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj){:target="_blank"}
-
-## Evaluación
-
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=xqS6trYnQmqoETwTIdhIeQ){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
-
-ó
-
-Graba un video donde hablas sobre cada habilidad en la lista de arriba y demostrando el dominio sobre ellas. Asegurate que cada criterio de evaluación y las herramientas necesarias sean visibles en la grabación y que el audio sea lo suficientemente claro para que el evaluador no tenga problemas.

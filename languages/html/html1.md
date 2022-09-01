@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: HTML Developer 1
 parent: HTML
 grand_parent: Languages
@@ -63,7 +63,3 @@ A developer who can code independently and build simple and well-structured webs
 ## Suggested Excercies:
 
 - You can use [this tutorial](https://youtu.be/PlxWf493en4){:target="\_blank"} to help you solidify your knowledge.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=KxA14MJ9TmuDYCSOc6nytw) to find a time on the calendar. After the evaluation, claim the badge.

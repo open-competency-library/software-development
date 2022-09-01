@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: CSS Developer 1
 parent: CSS
 grand_parent: Languages
@@ -38,7 +38,3 @@ A developer who can code independently and build simple and well-styled websites
 ## Suggested Excercies:
 
 - You can use [this tutorial](https://youtu.be/kMT54MPz9oE){:target="\_blank"} to help you solidify your knowledge.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=O8cej6IdSwiTET8_a98TdA) to find a time on the calendar. After the evaluation, claim the badge.

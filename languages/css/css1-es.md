@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: O8cej6IdSwiTET8_a98TdA
@@ -29,7 +29,3 @@ Ser un desarrollador que puede generar código independiente y construir un siti
 * [Learn to Code HTML & CSS (Inglés)](https://learn.shayhowe.com/html-css/){:target="_blank"}
 * [HTML Dog (Inglés)](https://www.htmldog.com/guides/css/beginner/){:target="_blank"} - CSS Beginner
 * [FreeCodeCamp.org (Inglés)](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/){:target="_blank"} - Basic CSS
-
-## Evaluación
-
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=O8cej6IdSwiTET8_a98TdA){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.

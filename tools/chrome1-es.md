@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: CwCMwmY-RIOhHS-KOb12oA
@@ -27,7 +27,3 @@ Ser capaz de usar la funcionalidad básica de las herramientas de desarrollo en 
 ## Ejercicio sugerido
 
 - Puedes usar este [ejercicio](https://docs.google.com/document/d/1WEpcZh0alQ8WbJLARqf77TtZGlmOFccUIEs6Zp0qJ1E/edit){:target="\_blank"} para ayudarte a solidificar tu aprendizaje.
-
-## Evaluación
-
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=CwCMwmY-RIOhHS-KOb12oA){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.

@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: hpvFRz6yTtu2VvQPyA8LFg
@@ -36,13 +36,3 @@ description: Ser capaz de usar eficientemente VS Code y herramientas relacionada
 ## Ejercicio sugerido
 
 * Puedes usar este [ejercicio](https://docs.google.com/document/d/1F_BgofG2nll23oWMhP8TR6ayEIaLJGF2X9E655kOUFQ/edit){:target="_blank"} para ayudarte a solidificar tu aprendizaje.
-
-## Evaluación
-
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=hpvFRz6yTtu2VvQPyA8LFg){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
-
-
-## Nota
-
-Si tienes problemas con el espaciado entre letras de la terminal integrada de VS Code, deberías revisar este [enlace](https://github.com/microsoft/vscode/issues/35681){:target="_blank"}.
-

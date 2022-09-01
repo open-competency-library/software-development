@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: BZ4TfqPOQBqUsCy4FLVNQw
@@ -34,7 +34,3 @@ Ser un desarrollador que puede escribir código en JavaScript simple que pueda r
 * [Learn JavaScript - Full Course (Inglés)](https://youtu.be/PkZNo7MFNFg)
 * [Watch and Code - Practical Javascript (Inglés)](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101 (Inglés)](https://www.theodinproject.com/){:target="_blank"}
-
-## Evaluación
-
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=BZ4TfqPOQBqUsCy4FLVNQw){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.

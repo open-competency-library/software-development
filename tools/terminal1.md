@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: module-with-evals
 title: Command Line Power User 1
 parent: Tools
 nav_order: 3
@@ -40,14 +40,3 @@ description: Someone who can use the basic features of a bash terminal.
 ## Suggested Excercies:
 
 - You can use [this exercise](https://docs.google.com/document/d/e/2PACX-1vSphtAjunUSWqxXLypj_1edFB7xyxicpbUUacEcEj68v-mwCJrDfv67rAUrl9GYNmQBI44eYc4fX-cy/pub){:target="\_blank"} to help you solidify your knowledge.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=LFVCaj_fQ263FtM0B8ZNfA) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
-

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: JavaScript Developer 2
 parent: JavaScript
 grand_parent: Languages
@@ -41,7 +41,3 @@ A developer who can code independently and build simple applications using JavaS
 ## Suggested Excercies:
 
 - You can use [this tutorial](https://youtu.be/mCQ1-iDSnto){:target="\_blank"} to help you solidify your knowledge.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=UpjeWGtrTNe2gf1MrHK5QA){:target="\_blank"} to find a time on the calendar. After the evaluation, claim the badge.
