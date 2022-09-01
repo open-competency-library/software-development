@@ -3,9 +3,7 @@ layout: module
 ---
 {{ content }}
 
-<p><hr/></p>
-
-<h2>Evaluation Options:</h2>
+<h2 id="eval">Evaluation Options:</h2>
 
 Perform a self-eval and be sure you ready to demonstrate all of the skills listed above. When you're sure, you can choose one of the following evaluation methods:
 
