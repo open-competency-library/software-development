@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: module
 title: Babel Developer 1
 parent: Tools
 nav_order: 3
 ---
-# Babel Developer 1
-
 A developer who is able to work with Babel to transpile javascript code to standard ES6 code.
 
 ## Master the following skills:
