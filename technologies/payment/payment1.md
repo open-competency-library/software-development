@@ -1,7 +1,7 @@
 ---
 layout: default
 title: eCommerce Developer 1
-parent: Front-End
+parent: Payment
 grand_parent: Technologies
 nav_order: 3
 ---
