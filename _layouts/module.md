@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<span style="float: right; width: 200px"><a href="{{link page.id}}-es.html">Español</a></span>
 <h1>{{page.title}}</h1>
 
 {{page.description}}

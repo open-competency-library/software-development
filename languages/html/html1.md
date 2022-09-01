@@ -7,6 +7,7 @@ nav_order: 7
 level: 1
 badge: KxA14MJ9TmuDYCSOc6nytw
 description: A developer who can code independently and build simple and well-structured websites.
+
 ---
 ## Master the following skills:
 
