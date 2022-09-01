@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Level Overview
 
 {% for level in site.levels %}
