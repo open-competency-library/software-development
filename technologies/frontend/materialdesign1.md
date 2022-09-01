@@ -19,7 +19,6 @@ A software developer who is able to use Material Design to simplify use of CSS i
 - Understand Material Design's responsive breakpoints
 - Build mobile-first responsive web pages
 - Can utilize the following components:
-
   - Text Fields
   - Time Pickers
   - Date Pickers
