@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nuget Power User 1
+parent: Tools
+nav_order: 3
+---
 # Nuget Power User 1
 
 A developer who can use Nuget and its packages to enhance .net applications.

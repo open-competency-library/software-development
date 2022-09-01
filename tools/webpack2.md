@@ -1,3 +1,9 @@
+---
+layout: default
+title: Webpack Developer 2
+parent: Tools
+nav_order: 3
+---
 # Webpack Developer 2
 
 [Spanish version](webpack2-es.md)

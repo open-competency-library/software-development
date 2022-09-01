@@ -1,3 +1,9 @@
+---
+layout: default
+title: NPM Power User 1
+parent: Tools
+nav_order: 3
+---
 # NPM Power User 1
 
 A developer who can use npm and its packages to enhance javascript-based applications.

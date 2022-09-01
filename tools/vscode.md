@@ -1,4 +1,10 @@
-# VS Code Learner 1
+---
+layout: default
+title: VS Code Power User 1
+parent: Tools
+nav_order: 3
+---
+# VS Code Power User 1
 
 Able to efficiently use VS Code and related tools.
 

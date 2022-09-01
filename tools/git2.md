@@ -1,3 +1,9 @@
+---
+layout: default
+title: Git Power User 2
+parent: Tools
+nav_order: 3
+---
 # Git Power User 2
 
 Someone who is learning how to use the Git source control system.

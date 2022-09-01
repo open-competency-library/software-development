@@ -1,4 +1,10 @@
-# Babel Power User 1
+---
+layout: default
+title: Babel Developer 1
+parent: Tools
+nav_order: 3
+---
+# Babel Developer 1
 
 A developer who is able to work with Babel to transpile javascript code to standard ES6 code.
 

@@ -1,4 +1,10 @@
-# Chrome Dev Tools Learner 1
+---
+layout: default
+title: Chrome Dev Tools Power User 1
+parent: Tools
+nav_order: 3
+---
+# Chrome Dev Tools Power User 1
 
 Able to use the basic functionality of the dev tools in Google Chrome.
 

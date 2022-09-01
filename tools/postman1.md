@@ -1,3 +1,9 @@
+---
+layout: default
+title: Postman Power User 1
+parent: Tools
+nav_order: 3
+---
 # Postman Power User 1
 
 A user of Postman who is able to use its features to access API's using HTTP requests.

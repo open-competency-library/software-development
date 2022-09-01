@@ -1,4 +1,10 @@
-# Chrome Dev Tools Power User 2
+---
+layout: default
+title: Chrome Dev Tools Developer 2
+parent: Tools
+nav_order: 3
+---
+# Chrome Dev Tools Developer 2
 
 Able to use the basic functionality of the dev tools in Google Chrome.
 

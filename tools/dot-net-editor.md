@@ -1,4 +1,10 @@
-# .NET Editor Power User
+---
+layout: default
+title: .NET Editor Power User 1
+parent: Tools
+nav_order: 3
+---
+# .NET Editor Power User 1
 
 Able to efficiently use a code editor or IDE to compile, execute and debug .NET code.
 

@@ -1,4 +1,11 @@
-# AWS Apprentice 2
+---
+layout: default
+title: AWS Developer 2
+parent: AWS
+grand_parent: DevOps
+nav_order: 3
+---
+# AWS Developer 2
 
 A developer who can build full-stack applications using Amazon AWS services.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Command Line Power User 1
+parent: Tools
+nav_order: 3
+---
 # Command Line Power User 1
 
 Someone who can use the basic features of a bash terminal.

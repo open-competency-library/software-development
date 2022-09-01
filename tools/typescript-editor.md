@@ -1,4 +1,10 @@
-# TypeScript Editor Power User
+---
+layout: default
+title: TypeScript Editor Power User 1
+parent: Tools
+nav_order: 3
+---
+# TypeScript Editor Power User 1
 
 [Spanish version](typescript-editor-es.md)
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Babel Developer 2
+parent: Tools
+nav_order: 3
+---
 # Babel Developer 2
 
 [Spanish version](babel2-es.md)

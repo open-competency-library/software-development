@@ -1,3 +1,9 @@
+---
+layout: default
+title: NPM Power User 2
+parent: Tools
+nav_order: 3
+---
 # NPM Power User 2
 
 [Spanish version](npm2-es.md)

@@ -1,4 +1,10 @@
-# PIP Apprentice 1
+---
+layout: default
+title: PIP Power User 1
+parent: Tools
+nav_order: 3
+---
+# PIP Power User 1
 
 A developer who can use pip and its packages to enhance python-based applications.
 

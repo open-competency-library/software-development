@@ -1,3 +1,9 @@
+---
+layout: default
+title: Webpack Developer 1
+parent: Tools
+nav_order: 3
+---
 # Webpack Developer 1
 
 A developer who is able to effectively integrate and use Webpack in a web project.
