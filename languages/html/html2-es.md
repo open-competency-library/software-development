@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de HTML 2
 
 Un desarrollador que puede construir sitios web interactivas y interfazes de usuario utilizando HTML.

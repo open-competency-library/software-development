@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Aprendiz CSS 1
 
 Ser un desarrollador que puede generar código independiente y construir un sitio web básico y con buen estilo.

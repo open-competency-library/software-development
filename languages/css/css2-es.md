@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Desarrollador de CSS 2
 
 Un desarrollador que puede estilizar elementos de HTML utilizando varias atributos de CSS, indepenientamente y con maestria.

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # CodeX Academy
 
 ## Level Overview
