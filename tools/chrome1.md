@@ -5,11 +5,8 @@ parent: Tools
 nav_order: 3
 level: 1
 badge: CwCMwmY-RIOhHS-KOb12oA
+description: Able to use the basic functionality of the dev tools in Google Chrome.
 ---
-# Chrome Dev Tools Power User 1
-
-Able to use the basic functionality of the dev tools in Google Chrome.
-
 ## Master the following skills:
 
 - View errors and logs in the console

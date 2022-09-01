@@ -3,11 +3,9 @@ layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: CwCMwmY-RIOhHS-KOb12oA
+title: Aprendiz de Herramientas de Desarrollo Chrome 1
+description: Ser capaz de usar la funcionalidad básica de las herramientas de desarrollo en Google Chrome.
 ---
-# Aprendiz de Herramientas de Desarrollo Chrome 1
-
-Ser capaz de usar la funcionalidad básica de las herramientas de desarrollo en Google Chrome.
-
 ## Domina las siguientes habilidades
 
 * Ver errores y registros en la consola.

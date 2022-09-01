@@ -6,10 +6,8 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: UpjeWGtrTNe2gf1MrHK5QA
+description: A developer who can code independently and build simple applications using JavaScript in the browser.
 ---
-# JavaScript Developer 2
-
-A developer who can code independently and build simple applications using JavaScript in the browser.
 
 ## Master the following skills:
 

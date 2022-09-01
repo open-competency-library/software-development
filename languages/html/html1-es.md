@@ -3,11 +3,9 @@ layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: KxA14MJ9TmuDYCSOc6nytw
+title: HTML Developer 1
+description: Ser un desarrollador que puede generar código independiente y construir un sitio web básico y bien estructurado.
 ---
-# Aprendiz HTML 1
-
-Ser un desarrollador que puede generar código independiente y construir un sitio web básico y bien estructurado.
-
 ## Domina las siguientes habilidades
 
 * Entender la estructura básica de un documento HTML.

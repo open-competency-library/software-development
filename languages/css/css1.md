@@ -6,11 +6,8 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: O8cej6IdSwiTET8_a98TdA
+description: A developer who can code independently and build simple and well-styled websites.
 ---
-# CSS Developer 1
-
-A developer who can code independently and build simple and well-styled websites.
-
 ## Master the following skills:
 
 - Describe why CSS is important to web development

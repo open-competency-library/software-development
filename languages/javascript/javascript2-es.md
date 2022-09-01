@@ -3,11 +3,9 @@ layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: UpjeWGtrTNe2gf1MrHK5QA
+title: Javascript Developer 2
+description: Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
 ---
-# Desarrollador Javascript 2
-
-Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
-
 ## Domina las siguientes habilidades
 
 * Comparaciones

@@ -5,11 +5,8 @@ parent: DevOps
 nav_order: 3
 level: 1
 badge: Cq9q8pooSYu6hyNj56SCkA
+description: Someone who is learning how to deploy applications to Heroku.
 ---
-# Heroku Developer 1
-
-Someone who is learning how to deploy applications to Heroku.
-
 ## Master the following skills:
 
 - Creating an application in Heroku

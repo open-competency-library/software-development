@@ -1,13 +1,11 @@
 ---
 layout: module-with-evals
+title: Heroku Developer 1
 nav_exclude: true
 level: 1
 badge: Cq9q8pooSYu6hyNj56SCkA
+description: Ser un desarrollador que puede desplegar una aplicación a Heroku.
 ---
-# Desarrollador de Heroku 1
-
-Ser un desarrollador que puede desplegar una aplicación a Heroku.
-
 ## Domina las siguientes habilidades:
 
 * Crear una aplicación en Heroku

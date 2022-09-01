@@ -6,11 +6,8 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: KxA14MJ9TmuDYCSOc6nytw
+description: A developer who can code independently and build simple and well-structured websites.
 ---
-# HTML Developer 1
-
-A developer who can code independently and build simple and well-structured websites.
-
 ## Master the following skills:
 
 - Understand basic document structure

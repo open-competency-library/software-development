@@ -3,11 +3,9 @@ layout: module-with-evals
 nav_exclude: true
 level: 1
 badge: xqS6trYnQmqoETwTIdhIeQ
+title: Usuario avanzado de Git 1
+description: Ser alguien que pueda usar los comandos básicos de Git y entender para que funciona.
 ---
-# Usuario avanzado de Git 1
-
-Ser alguien que pueda usar los comandos básicos de Git y entender para que funciona.
-
 ## Domina las siguientes habilidades
 
 * Instalar [Git SCM](https://git-scm.com/downloads){:target="_blank"} en tu computadora.

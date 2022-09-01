@@ -1,13 +1,11 @@
 ---
 layout: module-with-live-eval
 nav_exclude: true
+title: Aprendiz CSS 1
 level: 1
 badge: O8cej6IdSwiTET8_a98TdA
+description: Ser un desarrollador que puede generar código independiente y construir un sitio web básico y con buen estilo.
 ---
-# Aprendiz CSS 1
-
-Ser un desarrollador que puede generar código independiente y construir un sitio web básico y con buen estilo.
-
 ## Domina las siguientes habilidades:
 
 * Importar un archivo CSS externo (archivo local o url)

@@ -3,11 +3,9 @@ layout: module-with-live-eval
 nav_exclude: true
 level: 1
 badge: BZ4TfqPOQBqUsCy4FLVNQw
+title: JavaScript Developer 1
+description: Ser un desarrollador que puede escribir código en JavaScript simple que pueda resolver problemas simples.
 ---
-# Desarrollador JavaScript 1
-
-Ser un desarrollador que puede escribir código en JavaScript simple que pueda resolver problemas simples.
-
 ## Domina las siguientes habilidades
 
 * Variables (almacenar valores y funciones en variables, lectura de variables)

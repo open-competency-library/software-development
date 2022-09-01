@@ -6,10 +6,8 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: BZ4TfqPOQBqUsCy4FLVNQw
+description: A developer who can write basic JavaScript code to solve simple problems.
 ---
-# JavaScript Developer 1
-
-A developer who can write basic JavaScript code to solve simple problems.
 
 ## Master the following skills:
 
