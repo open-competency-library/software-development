@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: hidden;">Español</a></span>
 <h1>{{page.title}}</h1>
+<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: hidden;">Español</a></span>
 
 {{page.description}}
 
