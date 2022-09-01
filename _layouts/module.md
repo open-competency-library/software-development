@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<span style="float: right; width: 200px"><a id="spanish-link" href="#" style="display: hidden; text-align: right;">Español</a></span>
+<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: hidden;">Español</a></span>
 <h1>{{page.title}}</h1>
 
 {{page.description}}
@@ -17,7 +17,7 @@ Found a bug? <a href='{{site.github.repository_url}}/issues}}'>Report it</a> or 
 
 <script>
 setTimeout(()=> {
-    const url = "{{page.url}}";
+    const url = "{{site.url}}{{page.url}}";
     const es_url = url.replace(".html","-es.html");
     const link = document.getElementById("spanish-link");
     console.log("es_url", es_url);
