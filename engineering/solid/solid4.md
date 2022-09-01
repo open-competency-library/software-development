@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SOLID Developer 4
-parent: SOLID Priniples
+parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
 ---
