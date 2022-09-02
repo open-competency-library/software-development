@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: hidden;">Español</a></span>
+<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none;">Español</a></span>
 
 {{page.description}}
 
