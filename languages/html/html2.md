@@ -5,11 +5,8 @@ title: HTML Developer 2
 parent: HTML
 grand_parent: Languages
 nav_order: 7
+description: A developer who can build interactive websites and user interfaces using HTML.
 ---
-# HTML Developer 2
-
-A developer who can build interactive websites and user interfaces using HTML.
-
 ## Master the following skills:
 
 - Pre-formatted Text
