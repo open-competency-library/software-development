@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none; border: none;">Español</a></span>
+<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none;">Español</a></span>
 
 {{page.description}}
 
@@ -44,4 +44,5 @@ setTimeout(()=> {
 }
 #codex-pathway a { color: white}
 #footer { padding-top: 20px; margin-top: 20px; border-top: solid 1px #ddd; font-size: .8em; color: #BBB; }
+#spanish-link { background-image: none; }
 </style>
