@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none;">Español</a></span>
+<span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none; border: none;">Español</a></span>
 
 {{page.description}}
 
@@ -10,7 +10,7 @@ layout: default
 
 {{ content }}
 
-<p id="codex-pathway" style="display: none;"><i>This module is part of the Level {{page.level}} WebDev Pathway at CodeX Academy. For more information, <a href="https://webdev.codex.academy/{{page.level}}">click here</a>.</i></p>
+<div id="codex-pathway" style="display: none;"><i>This module is part of the Level {{page.level}} WebDev Pathway at CodeX Academy. For more information, <a href="https://webdev.codex.academy/{{page.level}}">click here</a>.</i></div>
 
 <p><hr/></p>
 
@@ -32,3 +32,7 @@ setTimeout(()=> {
     }
 }, 500);
 </script>
+
+<style>
+#codex-pathway { padding: 20px; position: absolute; top: 20px; right: 20px; border-radius: 20px; background-color: #EEEEEE; }
+</style>
