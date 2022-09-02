@@ -10,12 +10,12 @@ layout: default
 
 {{ content }}
 
-<div id="codex-pathway" style="display: none;"><i>This module is part of the Level {{page.level}} WebDev Pathway at CodeX Academy. For more information, <a href="https://webdev.codex.academy/{{page.level}}">click here</a>.</i></div>
-
 <p><hr/></p>
 
 <p>Maintained by <a href='https://codex.academy'>CodeX Academy</a> and <a href='https://growstrong.io'>Grow Strong</a>.<br/>
 Found a bug? <a href='{{site.github.repository_url}}/issues}}'>Report it</a> or <a href="{{site.github.repository_url}}/blob/master/{{page.path}}">Edit this page</a>. Want to contribute? <a href="{{ link /contributing.md }}">Pitch in!</a></p>
+
+<div id="codex-pathway" style="display: none;"><i>This module is part of the  <a href="https://webdev.codex.academy/{{page.level}}">Level {{page.level}} WebDev Pathway at CodeX Academy</a>.</i></div>
 
 <script>
 setTimeout(()=> {
@@ -34,5 +34,13 @@ setTimeout(()=> {
 </script>
 
 <style>
-#codex-pathway { padding: 20px; position: absolute; top: 20px; right: 20px; border-radius: 20px; background-color: #EEEEEE; }
+#codex-pathway { 
+    padding: 20px; 
+    font-size: .8em; 
+    border-radius: 20px; 
+    background-color: #7253ed; 
+    color: #ddd;
+    text-align: center;
+}
+#codex-pathway a { color: white}
 </style>
