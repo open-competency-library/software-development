@@ -39,6 +39,8 @@ setTimeout(()=> {
     background-color: #7253ed; 
     color: #ddd;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 #codex-pathway a { color: white}
 #footer { padding-top: 20px; margin-top: 20px; border-top: solid 1px #ddd; font-size: .8em; color: #BBB; }
