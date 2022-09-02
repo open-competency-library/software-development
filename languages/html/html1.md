@@ -2,6 +2,7 @@
 layout: module-with-live-eval
 title: HTML Developer 1
 parent: HTML
+hasSpanish: true
 grand_parent: Languages
 nav_order: 7
 level: 1

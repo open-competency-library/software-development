@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: module-with-live-eval
+hasSpanish: true
 title: HTML Developer 2
 parent: HTML
 grand_parent: Languages
