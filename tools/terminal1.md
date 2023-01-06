@@ -7,6 +7,7 @@ level: 1
 badge: LFVCaj_fQ263FtM0B8ZNfA
 description: Someone who can use the basic features of a bash terminal.
 ---
+
 ## Master the following skills:
 
 - Open a bash terminal (Windows users: We suggest you to use [Git Bash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/){:target="\_blank"})
