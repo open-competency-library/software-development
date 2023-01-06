@@ -5,15 +5,19 @@ parent: Tools
 nav_order: 3
 level: 1
 badge: hpvFRz6yTtu2VvQPyA8LFg
-description: Able to efficiently use VS Code and related tools.
+description: Be a developer who can utilize Visual Studio Code to create and maintain code files.
 ---
+
 ## Master the following skills:
 
-- Install VS Code to your computer.
-- Install and use extensions (like Prettier, Live Server or Power Mode).
-- Modify editor settings (globally and per language)
-- Use the embedded terminal
-- Open files and close tabs
+- Discuss the uses of VS Code in Web Development
+- Install VS Code on your computer
+- Open and close files
+- Open an entire folder in VS Code
+- Locate and open the embedded terminal
+- Install and use extensions in VS Code.
+- Modify editor settings for specific coding languages and global
+- Apply formatting to poorly formatted code
 - Format code using keyboard shortcut
 
 ## Suggested Learning:

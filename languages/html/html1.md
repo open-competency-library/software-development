@@ -7,19 +7,19 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: KxA14MJ9TmuDYCSOc6nytw
-description: A developer who can code independently and build simple and well-structured websites.
-
+description: Be a developer who can code independently and build simple and well-structured websites.
 ---
+
 ## Master the following skills:
 
-- Understand basic document structure
-- Understand how HTML tags control page layout and output
-- Understand common tag attributes: IDs, Classes, Styles
-- Can utilize structural tags: body, header, footer, divisions
-- Can utilize typography related tags: Headers (h1, h2, etc), Paragraphs
-- Can utilize list tags: Unordered lists, Ordered lists
-- Can utilize navigation related tags: anchors, other local html files, external urls
-- Can construct a table using tags: table header, table footer, rows, columns
+- Explain the building blocks of HTML documents
+- Identify HTML elements that control page layout
+- Differentiate between common HTML attributes like ID, Class and Styles
+- Utilize structural tags like paragraphs, divisions, headers and footers
+- Utilize typography tags like headers, strong, and italics
+- Implement navigation to both local html files and external url
+- Utilize list tags for unordered and ordered lists
+- Construct a table of data including header, footer, rows, and columns
 
 ## Suggested Learning:
 

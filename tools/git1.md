@@ -5,20 +5,22 @@ parent: Tools
 nav_order: 3
 level: 1
 badge: xqS6trYnQmqoETwTIdhIeQ
-description: Someone who is learning how to use the Git source control system.
+description: Be a developer who can share code with other developers through a distributed version control system like Git.
 video_eval: true
 ---
+
 ## Master the following skills:
 
-- Install [Git SCM](https://git-scm.com/downloads){:target="\_blank"} to your computer.
-- Using the command line only:
-  - Creating a local repository
-  - Adding files
-  - Committing with a good message
-  - Cloning from a remote (ex: Github)
-  - Pushing to remote
-  - Pulling from remote
-  
+- Discuss the problems that can be solved by source control systems like Git
+- Fork a repository in Github
+- Differentiate between copies of repositories
+- Clone from a remote repository
+- Differentiate between local and remote changes
+- Open source control panel in VS Code
+- Commit changes with a good message
+- Sync changes between local and remote repositories
+- Discuss the impact of well-written commit messages
+
 ## Suggested Learning:
 
 - [Udemy's Getting Started With Git](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LcWa2fBnTmPI5KyCoiS5ug){:target="\_blank"}

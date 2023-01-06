@@ -5,15 +5,20 @@ parent: Tools
 nav_order: 3
 level: 1
 badge: CwCMwmY-RIOhHS-KOb12oA
-description: Able to use the basic functionality of the dev tools in Google Chrome.
+description: Be a developer who can utilize Chrome Dev Tools to inspect and diagnose web-based front-ends.
 ---
+
 ## Master the following skills:
 
-- View errors and logs in the console
+- Discuss the utility of Chrome Dev Tools for front-end web development
+- Open Chrome Dev Tools using the mouse
 - Inspect HTML elements and view CSS styles
+- Open Chrome Dev Tools using a keyboard shortcut
 - Make live changes to HTML and CSS
+- Locate and list the files that make up a website
+- View errors and logs in the console
 - Understand which resources and requests take longer to load
-- Able to simulate mobile devices
+- Simulate websites on mobile devices
 
 ## Suggested Learning:
 

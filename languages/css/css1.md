@@ -6,22 +6,24 @@ grand_parent: Languages
 nav_order: 7
 level: 1
 badge: O8cej6IdSwiTET8_a98TdA
-description: A developer who can code independently and build simple and well-styled websites.
+description: Be a developer who can utilize CSS to apply simple styles to web elements.
 ---
+
 ## Master the following skills:
 
 - Describe why CSS is important to web development
-- Use inline CSS styles change the visual behavior of HTML elements
-- Include CSS styles in the head section of an HTML document
-- Import CSS from local files into an HTML document
-- Import CSS from remote locations into an HTML document
+- Discuss how selectors enable CSS
+- Modify the visual style of HTML elements using inline styles and styles from the head section.
 - Differentiate between selectors, properties and values in the CSS Context
-- Control the color of HTML elements using color names, RGB values and Hex values
-- Control the style of text elements in HTML
-- Compare and contrast the concepts of margin and padding
-- Control padding, margin and background for block elements using CSS
-- Control the border styles of inline and block elements using CSS
-- Control differing styles for HTML elements based on hover state
+- Apply non-inline styles to elements based on element id, class and tag name
+- Control the color of elements using color names, RGB values and Hex values
+- Change font and text style using CSS
+- Understand element spacing using the “box model”
+- Use margin, padding and borders to control element spacing
+- Add borders to inline and block elements using various colors and border styles
+- Change element style in real-time based on mouse hover-state
+- Import CSS from local files into an HTML document
+- Describe how your browsers’ built-in styles affect custom styling efforts
 
 ## Suggested Learning:
 

@@ -5,25 +5,26 @@ parent: Front-End
 grand_parent: Technologies
 nav_order: 3
 ---
+
 # Bootstrap Developer 1
 
-A software developer who is able to use Bootstrap to simplify use of CSS in a website and format content appropriately.
+Be a developer who can utilize Twitter’s Bootstrap to build nicely-styled and formatted web applications with minimal effort.
 
 ## Master the following skills:
 
+- Describe the utility of Bootstrap in front-end web development
+- Import Bootstrap CSS code from a remote CDN into an HTML document
+- Add padding and margin using Bootstrap styles
+- Style buttons with various Bootstrap states like warning, info, primary, etc
 - Use containers to frame content
-- Understand Bootstraps responsive breakpoints
-- Able to determine size with breakpoint names (sm, lg, etc)
 - Use the grid system to format content in rows and columns
-- Add padding and margin
-- Build mobile-first responsive web pages
-- Style buttons with various state (warning, info, primary, etc)
-- Can utilize the following components:
-  - Alerts
-  - Badges
-  - Collapse
-  - Dropdowns
-  - Spinners
+- Use some of Bootstrap’s most common components in a web page:
+  - Alert
+  - Badge
+  - Nav
+  - Spinner
+  - List Group
+  - Card
 
 ## Suggested Learning:
 
