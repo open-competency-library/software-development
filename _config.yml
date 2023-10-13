@@ -1,7 +1,6 @@
 title: Open Competency Library
 url: https://lib.opencomplib.org/software-development
-# remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 description: An open-source repository of software development-related competencies.
 show_downloads: false
 markdown: kramdown
