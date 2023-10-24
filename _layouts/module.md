@@ -10,8 +10,6 @@ layout: default
 
 {{ content }}
 
-<div id="codex-pathway" style="display: none;"><i>This module is part of the  <a href="https://webdev.codex.academy/{{page.level}}">Level {{page.level}} WebDev Pathway at CodeX Academy</a>.</i></div>
-
 <script>
 setTimeout(()=> {
     if({{page.hasSpanish}}){

@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: JavaScript TDD Developer 1
 parent: JavaScript
 grand_parent: Languages
 nav_order: 7
+badge: iKAzbvaGQuOjxekhw0StGw
+level: 3
 ---
 # JavaScript TDD Developer 1
 
@@ -26,9 +28,3 @@ Able to develop Javascript code using various forms of testing.
 * [Udacity JS Testing](https://www.udacity.com/course/javascript-testing--ud549){:target="_blank"}
 * [Fun Fun Function - Unit Testing](https://www.youtube.com/watch?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&v=Eu35xM76kKY&feature=emb_title){:target="_blank"}
 * [Exercism](https://exercism.io/){:target="_blank"} - For some practice
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-3?badge=iKAzbvaGQuOjxekhw0StGw) to request an evaluation.
-
-[.](level-3)

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Defensive Programmer 2
 parent: Engineering
 nav_order: 2

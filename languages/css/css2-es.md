@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 nav_exclude: true
 ---
 # Desarrollador de CSS 2

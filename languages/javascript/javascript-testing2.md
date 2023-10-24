@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: JavaScript TDD Developer 2
 parent: JavaScript
 grand_parent: Languages
 nav_order: 7
+badge: 0jEVfXE4QtyZ7Jk0LgtWtg
+level: 4
 ---
 # JavaScript TDD Developer 2
 
@@ -25,9 +27,3 @@ Able to develop Javascript code using various forms of testing.
 ## Suggested Learning:
 
 - We suggest doing your own research on how to write and run tests for NodeJS and React.
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-4?badge=0jEVfXE4QtyZ7Jk0LgtWtg) to request an evaluation.
-
-[.](level-4)

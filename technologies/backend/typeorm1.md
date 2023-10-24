@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: TypeOrm Developer 1
 parent: Back-End
 grand_parent: Technologies

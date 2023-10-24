@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Vue.JS Developer 2
 parent: Front-End
 grand_parent: Technologies

@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: TypeScript TDD Developer 1
 parent: TypeScript
 grand_parent: Languages
 nav_order: 7
+
 ---
 # TypeScript TDD Developer 1
 

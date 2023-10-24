@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: TypeScript Developer 2
 parent: TypeScript
 grand_parent: Languages

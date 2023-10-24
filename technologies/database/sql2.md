@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: SQL Developer 2
 parent: Database
 grand_parent: Technologies

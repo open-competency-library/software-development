@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Lodash Developer 1
 parent: Technologies
 nav_order: 3
