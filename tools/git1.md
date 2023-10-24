@@ -1,5 +1,5 @@
 ---
-layout: module-with-evals
+layout: module-with-live-eval
 title: Git Power User 1
 parent: Tools
 nav_order: 3
