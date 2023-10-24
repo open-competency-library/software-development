@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: 66Pz-G6UScWSrbCUxsHuSg
+level: 1
 title: Bootstrap Developer 1
 parent: Front-End
 grand_parent: Technologies
@@ -34,8 +34,3 @@ Be a developer who can utilize Twitter’s Bootstrap to build nicely-styled and 
 - [FreeCodeCamp's Tutorial](https://www.freecodecamp.org/news/the-best-bootstrap-examples/){:target="\_blank"}
 - [Bootstrap's Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/){:target="\_blank"}
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=66Pz-G6UScWSrbCUxsHuSg) to request an evaluation.
-
-[.](level-2)
