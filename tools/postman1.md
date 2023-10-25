@@ -5,11 +5,8 @@ level: 2
 title: Postman Power User 1
 parent: Tools
 nav_order: 3
+description: A user of Postman who is able to use its features to access API's using HTTP requests.
 ---
-# Postman Power User 1
-
-A user of Postman who is able to use its features to access API's using HTTP requests.
-
 ## Master the following skills:
 
 * Understand what Postman is used for
@@ -22,9 +19,3 @@ A user of Postman who is able to use its features to access API's using HTTP req
 ## Suggested Learning:
 
 * [Postman's Learning Center](https://learning.getpostman.com/){:target="_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=XUSQ7P32TTSDfZy362fUgA) to request an evaluation.
-
-[.](level-2)

@@ -10,8 +10,6 @@ A developer who can proficiently implement the "{{page.title}}" design pattern a
 
 ## Master the following skills:
 
-(regarding the design pattern identified in the badge name)
-
 - Compare/contrast this design pattern to other design patterns
 - Describe the design pattern to less experienced developers
 - Recognize situations where this design pattern is appropriate

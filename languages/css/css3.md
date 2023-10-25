@@ -6,10 +6,9 @@ grand_parent: Languages
 nav_order: 7
 badge: U-hLfSsMSlSoJikSAZIpvg
 level: 4
+description: A developer who can apply layout styles and techniques to achieve pixel-perfect and responsive HTML/CSS implementations of designer-provided mockups and examples.
 ---
-# CSS Developer 3
 
-A developer who can apply layout styles and techniques to achieve pixel-perfect and responsive HTML/CSS implementations of designer-provided mockups and examples.
 
 ## Master the following skills:
 

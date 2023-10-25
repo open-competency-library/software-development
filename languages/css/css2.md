@@ -6,11 +6,8 @@ title: CSS Developer 2
 parent: CSS
 grand_parent: Languages
 nav_order: 7
+description: A developer who can style HTML elements using various CSS style attributes independently and masterfully.
 ---
-# CSS Developer 2
-
-A developer who can style HTML elements using various CSS style attributes independently and masterfully.
-
 ## Master the following skills:
 
 - Understand element spacing using the “box model”
