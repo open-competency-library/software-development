@@ -4,25 +4,29 @@ layout: default
 <h1>Design Pattern: {{page.title}}</h1>
 <span style="float: right; width: 200px; text-align: right;"><a id="spanish-link" href="#" style="display: none;">Español</a></span>
 
-A developer who can proficiently implement the "{{page.title}}" design pattern as well as recognize situations where it is appropriate.
+<p>A developer who can proficiently implement the "{{page.title}}" design pattern as well as recognize situations where it is appropriate.</p>
 
 <p><hr/></p>
 
-## Master the following skills:
+<h2>Master the following skills:</h2>
 
-- Compare/contrast this design pattern to other design patterns
-- Describe the design pattern to less experienced developers
-- Recognize situations where this design pattern is appropriate
-- Implement the design pattern correctly from memory
-- Code the design pattern using TDD (unit tests first)
+<ul>
+    <li>Compare/contrast this design pattern to other design patterns</li>
+    <li>Describe the design pattern to less experienced developers</li>
+    <li>Recognize situations where this design pattern is appropriate</li>
+    <li>Implement the design pattern correctly from memory</li>
+    <li>Code the design pattern using TDD (unit tests first)</li>
+</ul>
 
-## Suggested Learning:
+<h2>Suggested Learning:</h2>
 
-- [Design Pattern Guru](https://refactoring.guru/design-patterns){:target="\_blank"}
-- [Do Factory](https://www.dofactory.com/){:target="\_blank"}
-- [Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="\_blank"} from Coursera
-- [TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="\_blank"}
-- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="\_blank"}
+<ul>
+    <li>[Design Pattern Guru](https://refactoring.guru/design-patterns){:target="\_blank"}</ul>
+    <li>[Do Factory](https://www.dofactory.com/){:target="\_blank"}</ul>
+    <li>[Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="\_blank"} from Coursera</ul>
+    <li>[TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="\_blank"}</ul>
+    <li>[Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="\_blank"}</ul>
+</ul>
 
 <script>
 setTimeout(()=> {
