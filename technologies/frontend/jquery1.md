@@ -28,8 +28,3 @@ A software developer who can code independently using JQuery to build complex ap
 - [Udacity's Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245){:target="\_blank"}
 - [EdX's Intro to JQuery](https://www.edx.org/course/introduction-to-jquery){:target="\_blank"}
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=Cnd-oYKxS_qOH_ZFcpwXkA) to request an evaluation.
-
-[.](level-2)
