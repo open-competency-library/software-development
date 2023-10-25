@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: XUSQ7P32TTSDfZy362fUgA
+level: 2
 title: Postman Power User 1
 parent: Tools
 nav_order: 3
