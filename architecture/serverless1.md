@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: Pqo6N_RrStSKsBs_aKbwkQ
+level: 7
 title: Serverless Developer 1
 parent: Architecture
 nav_order: 7

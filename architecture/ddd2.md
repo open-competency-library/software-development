@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: ubj7Zs1YRi2yyjY4PkZQHg
+level: 7
 title: Domain-Driven Developer 2
 description: A developer who can assist business leaders and product owners in building well-communicated and well-architected systems in a Domain-Driven Design context.
 parent: Architecture

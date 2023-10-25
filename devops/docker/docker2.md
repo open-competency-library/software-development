@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: eSrEmCdWS5KR5L8WMLD8Kw
+level: 7
 title: Docker Developer 2
 parent: DevOps
 nav_order: 3
