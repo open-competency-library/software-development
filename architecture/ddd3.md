@@ -1,5 +1,7 @@
 ---
-layout: module
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Domain-Driven Developer 3
 parent: Architecture
 nav_order: 3

@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: cK-MjulxTOyBd8L1gNhneA
+level: 6
 title: TypeScript TDD Developer 2
 parent: TypeScript
 grand_parent: Languages

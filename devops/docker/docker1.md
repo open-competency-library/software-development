@@ -1,13 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: jOldRIUERdCjH96guUNMIA
+level: 6
 title: Docker Developer 1
 parent: DevOps
 nav_order: 3
 ---
 # Docker Developer 1
-
 
 A developer who can develop using containerization and Docker.
 

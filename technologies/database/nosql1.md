@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: FPMxqMXOTn2Q61ezf6hFTA
+level: 6
 title: NoSQL Developer 1
 parent: Database
 grand_parent: Technologies

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: U_rornHgQsmlvdpls5JSIQ
+level: 6
 title: TypeScript Developer 3
 parent: TypeScript
 grand_parent: Languages

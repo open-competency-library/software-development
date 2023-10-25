@@ -1,5 +1,7 @@
 ---
-layout: module
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: CQRS Developer 2
 parent: Architecture
 nav_order: 5

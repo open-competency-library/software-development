@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: dZMJI7xFTEyzXxiuKbCgwA
+level: 6
 title: C# TDD Developer 1
 parent: C-Sharp
 grand_parent: Languages

@@ -1,5 +1,7 @@
 ---
-layout: module
+layout: module-with-live-eval
+badge: wwYGJ0UNT4iG4OWDvc5c5g
+level: 6
 title: Domain-Driven Developer 1
 parent: Architecture
 nav_order: 1

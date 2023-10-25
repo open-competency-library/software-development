@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: kcUXcQ53QECQSilxjxfEpw
+level: 6
 title: SOLID Developer 2
 parent: SOLID Principles
 grand_parent: Engineering

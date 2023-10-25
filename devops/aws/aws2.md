@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: cSl2h41lTDuaHlIn4Cp6lQ
+level: 6
 title: AWS Developer 2
 parent: AWS
 grand_parent: DevOps

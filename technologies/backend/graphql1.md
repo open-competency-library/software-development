@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: jYHToVSAQUa13idhneDiPQ
+level: 6
 title: GraphQL Developer 1
 parent: Back-End
 grand_parent: Technologies

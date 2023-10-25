@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: M42-SkyFR3uaUZUDvZrdNw
+level: 6
 title: Defensive Defense 1
 parent: Defense
 grand_parent: Engineering
