@@ -8,8 +8,6 @@ badge: U-hLfSsMSlSoJikSAZIpvg
 level: 4
 description: A developer who can apply layout styles and techniques to achieve pixel-perfect and responsive HTML/CSS implementations of designer-provided mockups and examples.
 ---
-
-
 ## Master the following skills:
 
 - Build layouts and position elements using floats, inline, flexbox, and grid

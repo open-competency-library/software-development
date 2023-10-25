@@ -32,7 +32,3 @@ A developer who is proficient in writing C# production code following TDD and Re
 
 - [Introduction to TDD in C#](https://www.udemy.com/course/intro-tdd/){:target="\_blank"} by Udemy
 - [Beginners Guide to Unit Testing with NUnit and C#](https://www.udemy.com/course/unit-testing-intro/){:target="\_blank"} by Udemy
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.

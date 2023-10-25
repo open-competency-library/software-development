@@ -41,7 +41,3 @@ A developer who can effectively review and give feedback on code written by deve
 - [Review Techniques](https://www.coursera.org/lecture/reviews-and-metrics-for-software-improvements/5-2-1-review-techniques-d2hGO){:target="\_blank"}
 - [Five golden principles of a code review](https://medium.com/dev-bits/five-golden-principles-of-a-code-review-ecf7fd977dfd){:target="\_blank"}
 - [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.

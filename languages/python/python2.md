@@ -33,6 +33,3 @@ A developer capable of developing and maintaining applications written in Python
 - [Dictionary](https://www.programiz.com/python-programming/dictionary){:target="\_blank"}
 - [Sets](https://www.programiz.com/python-programming/set){:target="\_blank"}
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
