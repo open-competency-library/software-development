@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: YOzH_Q7MQ0OWLsj9W161Jg
+level: 5
 title: Bash Developer 1
 parent: DevOps
 nav_order: 3

@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: zmJudPw1RfCAAQFTgZ49HQ
+level: 5
 title: CI/CD Developer 1
 parent: DevOps
 nav_order: 3
