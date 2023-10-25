@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: ghf_sWV4RLC-_G16i-jY6g
+level: 3
 title: Lodash Developer 1
 parent: Technologies
 nav_order: 3

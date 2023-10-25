@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: 9x42ZE1TReGy7-go968UlA
+level: 3
 title: Firebase Developer 1
 parent: Back-End
 grand_parent: Technologies

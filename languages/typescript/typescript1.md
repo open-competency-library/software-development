@@ -1,6 +1,6 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: _vGuJgBcQkC7uj5p5tE5nA
 level: 0
 title: TypeScript Developer 1
 parent: TypeScript
@@ -49,9 +49,3 @@ A developer who is proficient programming in the TypeScript language.
 - [TypeScript Fast Crash Course](https://www.udemy.com/course/typescript-fast-crash-course/){:target="\_blank"} by Udemy
 - [Learn TypeScript in 5 Minutes](https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/){:target="\_blank"} from FreeCodeCamp
 - [TypeScript Documentation](https://www.typescriptlang.org/){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=_vGuJgBcQkC7uj5p5tE5nA) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-4)

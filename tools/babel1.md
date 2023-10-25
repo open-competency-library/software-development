@@ -1,7 +1,7 @@
 ---
 layout: module-with-live-eval
-badge: abc123
-level: 0
+badge: esBO-0HBSXeg9zTitu4ZDA
+level: 3
 title: Babel Developer 1
 parent: Tools
 nav_order: 3
