@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Design Patterns 1
 parent: Design Patterns
 grand_parent: Engineering

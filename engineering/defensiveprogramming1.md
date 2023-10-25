@@ -1,6 +1,6 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: IJ2XbdzST0G5Ef0hnsgFzw
 level: 0
 title: Defensive Programmer 1
 parent: Engineering
@@ -26,13 +26,3 @@ A developer who can develop software defensively to produce higher quality code.
 - [N+1 Queries and How to Avoid Them](https://medium.com/@bretdoucette/n-1-queries-and-how-to-avoid-them-a12f02345be5){:target="\_blank"}
 - [Solving the N+1 Problem in ORM's](https://thecodingmachine.io/solving-n-plus-1-problem-in-orms)
 - [What is a Memory Leak](https://www.linkedin.com/learning/linux-performance-tuning/what-is-a-memory-leak){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.

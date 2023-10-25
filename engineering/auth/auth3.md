@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Auth 3
 parent: Auth
 grand_parent: Engineering

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: VYeBv-WRR6-YI1pkcb2EyQ
+level: 5
 title: AWS Developer 1
 parent: AWS
 grand_parent: DevOps

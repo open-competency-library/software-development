@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Defensive Defense 1
 parent: Defense
 grand_parent: Engineering
