@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: Ai1uzfTXR8ewBbUhHvVpkA
+level: 4
 title: TypeScript Editor Power User 1
 parent: Tools
 nav_order: 3

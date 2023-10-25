@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: NPM Power User 2
 parent: Tools
 nav_order: 3
