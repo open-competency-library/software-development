@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: vClFIfORTvCdgseMl0ZyOg
+level: 2
 title: CSS Developer 2
 parent: CSS
 grand_parent: Languages
 nav_order: 7
+description: A developer who can style HTML elements using various CSS style attributes independently and masterfully.
 ---
-# CSS Developer 2
-
-A developer who can style HTML elements using various CSS style attributes independently and masterfully.
-
 ## Master the following skills:
 
 - Understand element spacing using the “box model”
@@ -26,9 +25,3 @@ A developer who can style HTML elements using various CSS style attributes indep
 - [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/){:target="\_blank"}
 - [The Odin Project](https://www.theodinproject.com/){:target="\_blank"} - Web Development 101 and HTML5 and CSS3
 - [W3C CSS Tutorial](http://www.w3schools.com/css/){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=vClFIfORTvCdgseMl0ZyOg) to request an evaluation.
-
-[.](level-2)

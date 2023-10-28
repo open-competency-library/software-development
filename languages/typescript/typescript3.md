@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: U_rornHgQsmlvdpls5JSIQ
+level: 6
 title: TypeScript Developer 3
 parent: TypeScript
 grand_parent: Languages
@@ -33,9 +35,3 @@ A developer who is proficient programming in the TypeScript language using advan
 ## Suggested Learning:
 
 - [TypeScript Documentation](https://www.typescriptlang.org/){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-6?badge=U_rornHgQsmlvdpls5JSIQ) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-6)

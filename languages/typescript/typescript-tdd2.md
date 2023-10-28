@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: cK-MjulxTOyBd8L1gNhneA
+level: 6
 title: TypeScript TDD Developer 2
 parent: TypeScript
 grand_parent: Languages
@@ -20,7 +22,3 @@ A developer who is proficient in writing TypeScript production code following TD
 - [Mock Functions](https://www.youtube.com/watch?v=iN86lpkRcDk){:target="\_blank"}
 - [Manual Mocks](https://www.youtube.com/watch?v=9EV9gtnt-go){:target="\_blank"}
 - [Testiong with Jest: From Zero to Hero](https://www.youtube.com/watch?v=NHMIn723hQY){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.

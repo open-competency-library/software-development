@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Scrum Developer 2
 parent: Teams
 #nav_order: 2
@@ -31,7 +33,3 @@ A developer who can work effectively as part of a Scrum development team.
 - [Mountain Goat Software Blog](https://www.mountaingoatsoftware.com/blog){:target="\_blank"}
 - [Scrum: Learn the Scrum Basics in 1 Hour](https://www.udemy.com/course/scrum-learn-the-scrum-basics-in-1-hour-agile-scrum/){:target="\_blank"}
 - [FREE 60 Minute Scrum Course](https://www.udemy.com/course/free-60-minute-scrum-course/){:target="\_blank"}
-
-## Evaluation:
-
-Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 nav_exclude: true
 ---
 # Desarrollador JavaScript 4
@@ -27,9 +29,3 @@ Un desarrollador que puede programar de forma independiente y crear aplicaciones
 - [JavaScript this Keyword](https://youtu.be/gvicrj31JOM){:target="\_blank"}
 - [Programación orientada a Objetos con JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk){:target="\_blank"}
 - [Programación orientada a Objetos en JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81){:target="\_blank"}
-
-## Evaluation:
-
-Pregunta a tu mentor si te encuentras listo para la evaluación. Luego presiona click [aquí](https://webdev.codex.academy/mastery-eval-3?badge=j7PDl2gDRauSz4_KcE-M1Q) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
-
-[.](level-3)

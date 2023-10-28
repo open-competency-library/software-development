@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: uHWoz3zXSACdhDYihZ4hvg
+level: 5
 title: Express Developer 2
 parent: Back-End
 grand_parent: Technologies
@@ -34,14 +36,3 @@ A developer who can implement build backend applications using NodeJS and Expres
 - [ExpressJS and NodeJS Course for Beginners](https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course/){:target="\_blank"} by FreeCodeCamp
 - [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/){:target="\_blank"} by Udemy
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=uHWoz3zXSACdhDYihZ4hvg) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
-
-[.](level-5)

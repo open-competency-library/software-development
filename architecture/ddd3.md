@@ -1,5 +1,7 @@
 ---
-layout: module
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Domain-Driven Developer 3
 parent: Architecture
 nav_order: 3
@@ -26,13 +28,3 @@ description: A developer who can implement tactical system architecture to suppo
 ## Suggested Learning Resources:
 
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/badge-level-8) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Material Design Developer 1
 parent: Front-End
 grand_parent: Technologies
@@ -31,12 +33,3 @@ A software developer who is able to use Material Design to simplify use of CSS i
 - [Material Design Documentation](https://material.io/){:target="\_blank"}
 - [Material UI](https://material-ui.com/){:target="\_blank"}
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.

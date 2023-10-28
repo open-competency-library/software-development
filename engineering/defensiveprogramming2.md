@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: abc123
+level: 0
 title: Defensive Programmer 2
 parent: Engineering
 nav_order: 2
@@ -27,12 +29,3 @@ A developer who can develop software defensively to produce higher quality code.
 - [Race Condition](https://www.lynda.com/Java-tutorials/Race-condition/2800335/2234019-4.html){:target="\_blank"}
 - [Vulnerability Types](https://www.professormesser.com/security-plus/sy0-501/vulnerability-types/){:target="\_blank"}
 
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.

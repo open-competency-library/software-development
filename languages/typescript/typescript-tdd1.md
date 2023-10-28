@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: pkajsF9oRdG9Iw0D_GOzPA
+level: 5
 title: TypeScript TDD Developer 1
 parent: TypeScript
 grand_parent: Languages
 nav_order: 7
+
 ---
 # TypeScript TDD Developer 1
 
@@ -33,7 +36,3 @@ A developer who is proficient in writing production TypeScript code following TD
 - [Node, Typescript, Eslint + JEST | Quick Setup ](https://youtu.be/pTdaeKSv49Y?list=PLJZ55yY08TNAtCdIWPApOGOjnmf8_d_jC){:target="\_blank"}
 - [Demonstrating Test Driven Development in TypeScript](https://www.youtube.com/watch?v=_rLi95Q6hEI){:target="\_blank"}
 - [Jest Documentation](https://jestjs.io/docs/en/getting-started#using-typescript){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=pkajsF9oRdG9Iw0D_GOzPA) to find a time on the calendar. After the evaluation, claim the badge.

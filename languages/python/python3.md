@@ -31,7 +31,3 @@ A developer capable of developing and maintaining advanced applications written 
 - [Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception){:target="\_blank"}
 - [Context Managers](https://dbader.org/blog/python-context-managers-and-with-statement){:target="\_blank"}
 - [Regex](https://www.programiz.com/python-programming/regex){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/full-stack) to find a time on the calendar. After the evaluation, claim the badge.

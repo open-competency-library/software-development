@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: VIdEr0C6R2-mk1KPovI7DA
+level: 4
 title: Express Developer 1
 parent: Back-End
 grand_parent: Technologies
@@ -24,9 +26,3 @@ A developer who can implement build backend applications using NodeJS and Expres
 - [Udemy's ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/){:target="\_blank"}
 - [Freecodecamp.org's API's and Microservices](https://www.freecodecamp.org/learn){:target="\_blank"} - Basic Node and Express
 - [Express Fundamentals](https://www.rithmschool.com/courses/node-express-fundamentals){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=VIdEr0C6R2-mk1KPovI7DA) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-4)

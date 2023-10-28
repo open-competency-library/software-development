@@ -1,5 +1,7 @@
 ---
-layout: module
+layout: module-with-live-eval
+badge: wwYGJ0UNT4iG4OWDvc5c5g
+level: 6
 title: Domain-Driven Developer 1
 parent: Architecture
 nav_order: 1
@@ -25,13 +27,3 @@ description: A developer who can tactically support simple architecture influenc
 - [Domain-Driven Design: File Structure](https://dev.to/stevescruz/domain-driven-design-ddd-file-structure-4pja){:target="\_blank"}
 - [Words Matter: Ubiquitous Language and Throughput](https://www.youtube.com/watch?v=g4LNezYjLLM){:target="\_blank"}
 - [Code-First vs Model-First vs Database-First: Pros and Cons](https://www.ryadel.com/en/code-first-model-first-database-first-vs-comparison-orm-asp-net-core-entity-framework-ef-data/){:target="\_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
-
-1. Schedule a live evaluation by clicking [here](https://api.logro.io/widget/appointment/codex-evals/badge-level-6) to find a time on the calendar. After the evaluation, claim the badge.
-
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.

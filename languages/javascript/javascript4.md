@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: module-with-live-eval
 title: JavaScript Developer 4
 parent: JavaScript
 grand_parent: Languages
 nav_order: 7
+level: 4
+badge: j7PDl2gDRauSz4_KcE-M1Q
 ---
 # JavaScript Developer 4
 
@@ -30,9 +32,3 @@ A developer who can code independently and build complex applications in the bro
 * [JavaScript this Keyword](https://youtu.be/gvicrj31JOM){:target="_blank"}
 * [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk){:target="_blank"}
 * [Object-oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81){:target="_blank"}
-
-## Evaluation:
-
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-3?badge=j7PDl2gDRauSz4_KcE-M1Q) to find a time on the calendar. After the evaluation, claim the badge.
-
-[.](level-3)

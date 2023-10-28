@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: kmWOM9-rTvmLfZFf85opkw
+level: 6
 title: Scrum Developer 1
 parent: Teams
 #nav_order: 2
