@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: rq4CyaJTTPiJWTCAc4wuQA
 level: 3
 title: Bootstrap Developer 2

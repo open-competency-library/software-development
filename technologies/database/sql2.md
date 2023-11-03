@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: Ii0rlSgNSamUOas6PBKuKA
 level: 5
 title: SQL Developer 2

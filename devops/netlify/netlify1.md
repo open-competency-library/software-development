@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: -DzzXvfpQyakF6S7H-lLbQ
 level: 4
 title: Netlify Developer 1

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 title: Github Pages Developer 1
 parent: DevOps
 nav_order: 3

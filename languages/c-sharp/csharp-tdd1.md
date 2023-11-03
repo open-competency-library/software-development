@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: dZMJI7xFTEyzXxiuKbCgwA
 level: 6
 title: C# TDD Developer 1

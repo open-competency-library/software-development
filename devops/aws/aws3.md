@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: se1olg92SaCwihgF5U3yFQ
 level: 7
 title: AWS Developer 3

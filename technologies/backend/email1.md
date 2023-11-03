@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: w2VBpFJ9Sl20dq3NwPyrmA
 level: 5
 title: Email Sender 1

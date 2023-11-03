@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 title: CSS Developer 3
 parent: CSS
 grand_parent: Languages

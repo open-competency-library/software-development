@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: vClFIfORTvCdgseMl0ZyOg
 level: 2
 title: CSS Developer 2

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: abc123
 level: 0
 title: Scrum Developer 4

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: ghf_sWV4RLC-_G16i-jY6g
 level: 3
 title: Lodash Developer 1

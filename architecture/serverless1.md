@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: Pqo6N_RrStSKsBs_aKbwkQ
 level: 7
 title: Serverless Developer 1

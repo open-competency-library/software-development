@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: oPR6uhy5Qi-QDwMXYDGrKA
 level: 4
 title: Knex Developer 1

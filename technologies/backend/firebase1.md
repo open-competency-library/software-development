@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: 9x42ZE1TReGy7-go968UlA
 level: 3
 title: Firebase Developer 1

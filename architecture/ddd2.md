@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: ubj7Zs1YRi2yyjY4PkZQHg
 level: 7
 title: Domain-Driven Developer 2

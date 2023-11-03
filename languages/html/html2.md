@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 hasSpanish: true
 title: HTML Developer 2
 parent: HTML

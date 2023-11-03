@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: uHWoz3zXSACdhDYihZ4hvg
 level: 5
 title: Express Developer 2

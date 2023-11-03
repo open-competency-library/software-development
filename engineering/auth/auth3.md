@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: IIyeKmQ0SWefAZFuFsmciA
 level: 6
 title: Auth 3

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: zmJudPw1RfCAAQFTgZ49HQ
 level: 5
 title: CI/CD Developer 1

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: dLutjnNZS7qyw2U848kP_Q
 level: 5
 title: Prisma Developer 1

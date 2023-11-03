@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: jYHToVSAQUa13idhneDiPQ
 level: 6
 title: GraphQL Developer 1

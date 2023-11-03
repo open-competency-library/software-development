@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: 8-c_6XvmTn2KYODKTMDh1w
 level: 4
 title: React.JS Developer 2

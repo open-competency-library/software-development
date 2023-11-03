@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: 7JoEH8LKShK1oqKS1TnKmQ
 level: 4
 title: Babel Developer 2

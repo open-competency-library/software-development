@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: 3jJe0VoeSoS5NF_mcACMiA
 level: 2
 title: REST API Developer 1

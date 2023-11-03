@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 title: SASS Developer 1
 parent: SASS
 grand_parent: Languages

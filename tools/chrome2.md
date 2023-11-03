@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: E_RKzv8nTVOybSTHaRjUmA
 level: 2
 title: Chrome Dev Tools Developer 2

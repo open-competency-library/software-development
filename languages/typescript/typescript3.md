@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: U_rornHgQsmlvdpls5JSIQ
 level: 6
 title: TypeScript Developer 3

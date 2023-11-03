@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 title: JavaScript TDD Developer 2
 parent: JavaScript
 grand_parent: Languages

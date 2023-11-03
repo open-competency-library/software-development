@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: pkajsF9oRdG9Iw0D_GOzPA
 level: 5
 title: TypeScript TDD Developer 1

@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: cSl2h41lTDuaHlIn4Cp6lQ
 level: 6
 title: AWS Developer 2

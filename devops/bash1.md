@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: YOzH_Q7MQ0OWLsj9W161Jg
 level: 5
 title: Bash Developer 1

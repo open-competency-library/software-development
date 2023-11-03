@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: wZylSksQS5-oTRCxohLp-w
 level: 4
 title: NPM Power User 2

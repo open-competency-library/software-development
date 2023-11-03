@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: gEepERUeQQG2OucvX2t5jw
 level: 5
 title: Auth 2

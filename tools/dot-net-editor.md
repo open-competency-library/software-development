@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: abc123
 level: 0
 title: .NET Editor Power User 1

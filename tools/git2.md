@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: MjR9Jm2rTGmkiB5HTMlHJA
 level: 2
 title: Git Power User 2

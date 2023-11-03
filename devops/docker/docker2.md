@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: eSrEmCdWS5KR5L8WMLD8Kw
 level: 7
 title: Docker Developer 2

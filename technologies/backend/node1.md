@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: 68Ur2l1ATt-KPBmhK9FESQ
 level: 4
 title: Node.JS Developer 1

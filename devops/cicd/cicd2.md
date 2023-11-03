@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: kVNbVyoWRAeV5k2gaBgLxQ
 level: 6
 title: CI/CD Developer 2

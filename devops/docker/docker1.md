@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: jOldRIUERdCjH96guUNMIA
 level: 6
 title: Docker Developer 1

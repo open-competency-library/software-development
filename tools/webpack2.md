@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: xHK3WRWMTXylAWZrB4K88g
 level: 4
 title: Webpack Developer 2

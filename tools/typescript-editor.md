@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: Ai1uzfTXR8ewBbUhHvVpkA
 level: 4
 title: TypeScript Editor Power User 1
