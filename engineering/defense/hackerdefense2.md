@@ -2,7 +2,7 @@
 layout: module-with-live-eval
 badge: qxMYO523SCOupDpwLJLqhg
 level: 7
-title: Defensive Defense 2
+title: Hacker Defense 2
 parent: Defense
 grand_parent: Engineering
 nav_order: 2

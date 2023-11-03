@@ -2,7 +2,7 @@
 layout: module-with-live-eval
 badge: abc123
 level: 0
-title: Defensive Defense 3
+title: Hacker Defense 3
 parent: Defense
 grand_parent: Engineering
 nav_order: 2

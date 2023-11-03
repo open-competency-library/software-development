@@ -1,5 +1,5 @@
 ---
-layout: module-with-live-eval
+layout: module-with-evals
 badge: IJ2XbdzST0G5Ef0hnsgFzw
 level: 0
 title: Defensive Programmer 1

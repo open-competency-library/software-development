@@ -2,7 +2,7 @@
 layout: module-with-live-eval
 badge: M42-SkyFR3uaUZUDvZrdNw
 level: 6
-title: Defensive Defense 1
+title: Hacker Defense 1
 parent: Defense
 grand_parent: Engineering
 nav_order: 2
