@@ -6,8 +6,6 @@ title: Defensive Programmer 1
 parent: Engineering
 nav_order: 2
 ---
-# Defensive Programmer 1
-
 A developer who can develop software defensively to produce higher quality code.
 
 ## Master the following skills:

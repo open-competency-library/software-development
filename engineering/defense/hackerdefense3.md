@@ -7,8 +7,6 @@ parent: Defense
 grand_parent: Engineering
 nav_order: 2
 ---
-# Hacker Defense 3
-
 A developer who is able to create applications that are resistant to hacker attacks
 
 ## Master the following skills:
