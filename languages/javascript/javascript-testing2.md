@@ -7,8 +7,6 @@ nav_order: 7
 badge: 0jEVfXE4QtyZ7Jk0LgtWtg
 level: 4
 ---
-# JavaScript TDD Developer 2
-
 [Spanish version](javascript-testing2-es.md)
 
 Able to develop Javascript code using various forms of testing.
@@ -22,7 +20,6 @@ Able to develop Javascript code using various forms of testing.
 - Discuss what unit test coverage demonstrates
 - Can generate coverage report.
 - Can test async functions
-- Can write and run an E2E test.
 
 ## Suggested Learning:
 

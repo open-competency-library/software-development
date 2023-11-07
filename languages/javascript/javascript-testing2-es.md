@@ -20,7 +20,6 @@ Ser capaz de desarrollar código de JavaScript utilizando varias maneras de test
 - Discute lo que demuestra la cobertura de las pruebas unitarias.
 - Poder generar informes de cobertura.
 - Poder hacer test a funciones asíncronas.
-- Poder escribir y correr una prueba E2E.
 
 ## Aprendizaje sugerido:
 
