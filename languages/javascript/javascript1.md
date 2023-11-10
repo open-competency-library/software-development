@@ -20,8 +20,11 @@ description: A developer who can write basic JavaScript code to solve simple pro
 ## Suggested Learning:
 
 - [Learn JavaScript - Full Course](https://youtu.be/PkZNo7MFNFg)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/){:target="\_blank"}
 - [Watch and Code - Practical Javascript](https://watchandcode.com/){:target="\_blank"}
 - [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="\_blank"}
+- [Eloquent Javascript](https://eloquentjavascript.net/){:target="\_blank"}
+- [Eloquent Javascript español](https://eloquentjs-es.thedojo.mx/){:target="\_blank"}
 - Guides:
   - [Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations){:target="\_blank"}
   - [Arrays](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="\_blank"}
