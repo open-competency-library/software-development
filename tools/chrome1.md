@@ -17,7 +17,7 @@ description: Be a developer who can utilize Chrome Dev Tools to inspect and diag
 - Make live changes to HTML and CSS
 - Locate and list the files that make up a website
 - View errors and logs in the console
-- Understand which resources and requests take longer to load
+- Open the network tab and understand which resources and requests take longer to load and why
 - Simulate websites on mobile devices
 
 ## Suggested Learning:
