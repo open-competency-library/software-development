@@ -1,14 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: UMt3GW8eSH2WTe01wrbTvA
 level: 0
 title: .NET Core Developer 1
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# .NET Core Developer 1
-
 A developer who can utilize .NET Core to backend simple console-based applications.
 
 ## Master the following:

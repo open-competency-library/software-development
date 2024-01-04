@@ -1,14 +1,12 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: ZZBAOwpcRWq4WsH3js_ieg
 level: 0
 title: ASP.NET Developer 2
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# ASP.NET Developer 2
-
 A developer who can build web-based applications using Microsoft ASP.NET.
 
 ## Master the following skills:

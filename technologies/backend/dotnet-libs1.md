@@ -1,14 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: AYA1lhpzS3-cC80_bJsSeg
 level: 0
 title: .NET Libraries Developer 1
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# .NET Libraries Developer 1
-
 A developer who can utilize various popular .NET libraries to save time and extend functionality.
 
 ## Master the following skills:

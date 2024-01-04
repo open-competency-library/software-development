@@ -1,14 +1,12 @@
 ---
-layout: module-with-evals
-badge: abc123
+layout: module-with-live-eval
+badge: i67575STRFujRo0exHg4qw
 level: 0
 title: C# TDD Developer 2
 parent: C-Sharp
 grand_parent: Languages
 nav_order: 7
 ---
-# C# TDD Developer 2
-
 A developer who is proficient in writing C# production code following TDD and Red-Green-Refactor and using Mocks.
 
 ## Master the following skills:

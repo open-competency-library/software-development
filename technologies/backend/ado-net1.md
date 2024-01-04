@@ -1,14 +1,12 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: zn1hHXxOR-6q0aOrwuGV8A
 level: 0
 title: ADO.NET Developer 3
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# ADO.NET Developer 1
-
 A developer who is able to use ADO.NET to connect .NET applications to databases.
 
 ## Master the following skills:

@@ -1,14 +1,12 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: _2SHK15iTA-jbzI2fYomgA
 level: 0
 title: ASP.NET Developer 1
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# ASP.NET Developer 1
-
 A developer who can build web-based applications using Microsoft ASP.NET.
 
 ## Master the following skills:

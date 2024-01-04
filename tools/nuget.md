@@ -1,13 +1,11 @@
 ---
-layout: module-with-evals
-badge: abc123
+layout: module-with-live-eval
+badge: BJ5ICzfwRIaGpHI8ySigLg
 level: 0
-title: Nuget Power User 1
+title: Nuget Package Master 1
 parent: Tools
 nav_order: 3
 ---
-# Nuget Power User 1
-
 A developer who can use Nuget and its packages to enhance .net applications.
 
 ## Master the following skills:

@@ -7,8 +7,6 @@ parent: C-Sharp
 grand_parent: Languages
 nav_order: 7
 ---
-# C# Developer 1
-
 A developer who is proficient programming in the C# language.
 
 ## Master the following skills:

@@ -7,8 +7,6 @@ parent: C-Sharp
 grand_parent: Languages
 nav_order: 7
 ---
-# C# TDD Developer 1
-
 A developer who is proficient in writing C# production code following TDD and Red-Green-Refactor.
 
 ## Master the following skills:

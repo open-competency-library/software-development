@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: module-with-live-eval
+badge: aD-ICii5RdyGFE1IRXdTLA
 title: C# Developer 2
 parent: C-Sharp
 grand_parent: Languages
 nav_order: 7
 ---
-# C# Developer 2
-
-
 A developer who is proficient in advanced programming using the C# language.
 
 ## Master the following skills:

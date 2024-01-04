@@ -1,14 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: OkPoPO7KTUeUAYBeujGYGg
 level: 0
 title: Entity Framework Developer 1
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
 ---
-# Entity Framework Developer 1
-
 A developer who can implement an ORM in a .NET application to communicate with the database without direct SQL queries.
 
 ## Master the following skills:
