@@ -1,6 +1,6 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: JaKh-HDaQ0aKaOLAgYCCqQ
 level: 0
 title: Defensive Programmer 2
 parent: Engineering

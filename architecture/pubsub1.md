@@ -1,6 +1,6 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: Q5au6u-8T8S5KQgzc5SeFw
 level: 0
 title: PubSub Developer 1
 parent: Architecture

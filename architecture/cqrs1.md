@@ -1,6 +1,6 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: u96U9li4T1maTjM1kMxyNw
 level: 0
 title: CQRS Developer 1
 parent: Architecture

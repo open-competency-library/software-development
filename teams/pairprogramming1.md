@@ -1,6 +1,6 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: h7YnQv6AR7CcIqESVKbdUA
 level: 0
 title: Pair Programmer 1
 parent: Teams

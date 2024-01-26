@@ -1,6 +1,6 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: H5eXsCAQR-KEqF6TvbYzCw
 level: 0
 title: Hacker Defense 3
 parent: Defense

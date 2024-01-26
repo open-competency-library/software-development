@@ -1,6 +1,6 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: EL5jCMEIRc-sYCRgaO7eyw
 level: 0
 title: Hacker Defense 4
 parent: Defense

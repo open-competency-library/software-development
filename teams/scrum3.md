@@ -1,6 +1,6 @@
 ---
 layout: module-with-evals
-badge: abc123
+badge: 9zxz7oqETbGx0eDBMTLRJA
 level: 0
 title: Scrum Developer 3
 parent: Teams
