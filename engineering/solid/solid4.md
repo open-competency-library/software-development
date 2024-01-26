@@ -1,14 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: LhEOq2akS-GD7IeoFugI9w
 level: 0
 title: SOLID Developer 4
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
 ---
-# SOLID Developer 4
-
 A developer who strives to write code that adheres to the SOLID principles.
 
 ## Master the following skills:

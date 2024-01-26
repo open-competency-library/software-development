@@ -1,14 +1,12 @@
 ---
 layout: module-with-live-eval
-badge: abc123
+badge: Qm0d5Bz7TrWl7zSeea3kxA
 level: 0
 title: SOLID Developer 3
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
 ---
-# SOLID Developer 3
-
 A developer who strives to write code that adheres to the SOLID principles.
 
 ## Master the following skills:

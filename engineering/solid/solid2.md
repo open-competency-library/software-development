@@ -7,8 +7,6 @@ parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
 ---
-# SOLID Developer 2
-
 A developer who strives to write code that adheres to the SOLID principles.
 
 ## Master the following skills:
