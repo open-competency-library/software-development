@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: true
 ---
-# AWS Apprentice 3
+# AWS Developer 3
 
 A developer who can build full-stack applications using Amazon AWS services.
 

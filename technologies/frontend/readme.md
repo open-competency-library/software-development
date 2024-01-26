@@ -1,8 +1,8 @@
 # Frontend
 
 ## React
-* [React Apprentice 1](react1.md)
-* [React Apprentice 2](react2.md)
+* [React Developer 1](react1.md)
+* [React Developer 2](react2.md)
 
 ## SASS
 
