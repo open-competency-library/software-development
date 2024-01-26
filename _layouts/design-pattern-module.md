@@ -21,11 +21,11 @@ layout: default
 <h2>Suggested Learning:</h2>
 
 <ul>
-    <li>[Design Pattern Guru](https://refactoring.guru/design-patterns){:target="\_blank"}</ul>
-    <li>[Do Factory](https://www.dofactory.com/){:target="\_blank"}</ul>
-    <li>[Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="\_blank"} from Coursera</ul>
-    <li>[TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="\_blank"}</ul>
-    <li>[Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="\_blank"}</ul>
+    <li><a href="https://refactoring.guru/design-patterns" target="_blank">Design Pattern Guru</a></ul>
+    <li><a href="https://www.dofactory.com/" target="_blank">Do Factory</a></ul>
+    <li><a href="https://www.coursera.org/learn/design-patterns" target="_blank">Design Patterns Courses</a> from Courera</ul>
+    <li><a href="https://www.udemy.com/course/typescript-design-patterns/" target="_blank">TypeScript Design Patterns</a></ul>
+    <li><a href="https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc" target="_blank">Design Patterns in Object Oriented Programming</a></ul>
 </ul>
 
 <script>
