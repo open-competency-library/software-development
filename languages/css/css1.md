@@ -27,7 +27,7 @@ description: Be a developer who can utilize CSS to apply simple styles to web el
 
 ## Suggested Learning:
 
-- [What is CSS](https://www.colorcode.io/course/css-basics){:target="\_blank"}
+- [What is CSS](https://www.colorcode.io/courses/css-basics){:target="\_blank"}
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/){:target="\_blank"}
 - [HTML Dog](https://www.htmldog.com/guides/css/beginner/){:target="\_blank"} - CSS Beginner
 - [FreeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/){:target="\_blank"} - Basic CSS
