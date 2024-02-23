@@ -1,13 +1,13 @@
 ---
 layout: module-with-live-eval
-badge: -c-w
+badge: EnB9SrcgRUCeiM7uh_1Ifg
 level: 1
 title: Pseudo Coder 1
 parent: Pseudocode
 grand_parent: Languages
 nav_order: 7
 ---
-A developer who can design logical solutions through fake code in plain english.
+A developer who can design logical solutions through fake code in plain english prose.
 
 ## Master the following skills:
 
@@ -31,6 +31,6 @@ A developer who can design logical solutions through fake code in plain english.
 
 - [Pseudocode: What It Is and How to Write It](https://builtin.com/data-science/pseudocode){:target="\_blank"}
 - [Learn to Write Pseudocode: What It Is and Why You Need It](https://www.wikihow.com/Write-Pseudocode){:target="\_blank"}
-- [What is Pseudocode Explained | How to Write Pseudocode Algorithm | Examples, Benefits & Steps](https://www.youtube.com/watch?v=qfckDdsEIq8){:target="\_blank"}
+- [Pseudocode Explained](https://www.youtube.com/watch?v=qfckDdsEIq8){:target="\_blank"}
 - [What is Pseudocode? How to Use Pseudocode to Solve Coding Problems](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/){:target="\_blank"}
 - [What Is Pseudocode and How Can It Improve Your Programming?](https://kinsta.com/knowledgebase/what-is-pseudocode/){:target="\_blank"}
