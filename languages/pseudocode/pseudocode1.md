@@ -14,7 +14,7 @@ A developer who can design logical solutions through fake code in plain english 
 - Discuss the purpose, benefits and use cases of pseudocode.
 - Describe solutions to logical problems with plain english prose (aka "pseudocode").
 - Communicate program execution and logic to developers and stakeholders using pseudocode.
-- Plan linear sequences of logic using pseudocode in the following scenarios:
+- Plan linear sequences of logic using the following scenarios in pseudocode:
   - Display information for a user to see (output).
   - Request information from the user (input).
   - Assign values (words, phrases, numbers, user input, etc) to algebraic containers (aka "variables").
