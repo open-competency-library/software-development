@@ -1,8 +1,8 @@
 ---
-layout: solid-module-with-live-eval
+layout: solid-module
 badge: Qm0d5Bz7TrWl7zSeea3kxA
 level: 0
-title: SOLID Developer 3
+title: Liskov Substitution Principle
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

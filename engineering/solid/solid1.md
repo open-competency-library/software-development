@@ -1,8 +1,8 @@
 ---
-layout: solid-module-with-live-eval
+layout: solid-module
 badge: IJ2XbdzST0G5Ef0hnsgFzw
 level: 5
-title: SOLID Developer 1
+title: Single Responsibility Principle
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

@@ -1,8 +1,8 @@
 ---
-layout: solid-module-with-live-eval
+layout: solid-module
 badge: kcUXcQ53QECQSilxjxfEpw
 level: 6
-title: SOLID Developer 2
+title: Open/Closed Principle
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

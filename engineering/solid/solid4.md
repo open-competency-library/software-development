@@ -1,8 +1,8 @@
 ---
-layout: solid-module-with-live-eval
+layout: solid-module
 badge: LhEOq2akS-GD7IeoFugI9w
 level: 0
-title: SOLID Developer 4
+title: Interface Segregation Principle 
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

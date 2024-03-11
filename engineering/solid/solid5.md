@@ -1,8 +1,8 @@
 ---
-layout: solid-module-with-live-eval
+layout: solid-module
 badge: EIgt141QQ-KOxJjFvLwq5w
 level: 0
-title: SOLID Developer 5
+title: Dependency Inversion Principle
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
