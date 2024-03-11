@@ -6,6 +6,7 @@ title: SOLID Developer 1
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2
+principle: Single Responsibility Principle
 ---
 ### On Single Responsibility:
 

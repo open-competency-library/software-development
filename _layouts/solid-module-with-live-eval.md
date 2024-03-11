@@ -1,5 +1,5 @@
 ---
-layout: design-pattern-module
+layout: solid-module
 ---
 {{ content }}
 

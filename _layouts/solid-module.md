@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<h1>SOLID Principles: {{page.title}}</h1>
+<h1>SOLID Principles: {{page.principle}}</h1>
 
-<p>A developer who strives to write code that adheres to the SOLID principles, especially the "{{page.title}}".</p>
+<p>A developer who strives to write code that adheres to the SOLID principles, especially the "{{page.principle}}".</p>
 
 <p><hr/></p>
 
@@ -12,10 +12,10 @@ layout: default
 <ul>
 <li>List the SOLID principles from memory</li>
 <li>Defend the need for code to be written in ways that adhere to the SOLID principles</li>
-<li>Discuss the definition of {{page.title}}</li>
-<li>Defend the utility of the {{page.title}} in writing maintainable code in non-trivial software projects</ul>
-<li>Recognize a violation of the {{page.title}} in existing code</li>
-<li>Write code that adheres to the {{page.title}}</li>
+<li>Discuss the definition of {{page.principle}}</li>
+<li>Defend the utility of the {{page.principle}} in writing maintainable code in non-trivial software projects</ul>
+<li>Recognize a violation of the {{page.principle}} in existing code</li>
+<li>Write code that adheres to the {{page.principle}}</li>
 </ul>
 
 <h2>Suggested Learning:</h2>
