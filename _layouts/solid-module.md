@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>SOLID Principles: {{page.principle}}</h1>
+<h1>{{page.principle}} Developer</h1>
 
 <p>A developer who strives to write code that adheres to the SOLID principles, especially the "{{page.principle}}".</p>
 
