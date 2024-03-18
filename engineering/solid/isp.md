@@ -5,7 +5,7 @@ level: 0
 title: Interface Segregation Master 
 parent: SOLID Principles
 grand_parent: Engineering
-nav_order: 2
+nav_order: 5
 principle: Interface Segregation Principle 
 ---
 ### On Interface Segregation Principle:

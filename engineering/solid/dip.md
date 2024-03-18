@@ -5,7 +5,7 @@ level: 0
 title: Dependency Inversion Master
 parent: SOLID Principles
 grand_parent: Engineering
-nav_order: 2
+nav_order: 6
 principle: Dependency Inversion Principle
 ---
 ### On Dependency Inversion Principle:

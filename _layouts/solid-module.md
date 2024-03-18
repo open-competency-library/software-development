@@ -13,7 +13,7 @@ layout: default
 <li>List the SOLID principles from memory</li>
 <li>Defend the need for code to be written in ways that adhere to the SOLID principles</li>
 <li>Discuss the definition of {{page.principle}}</li>
-<li>Defend the utility of the {{page.principle}} in writing maintainable code in non-trivial software projects</ul>
+<li>Defend the utility of the {{page.principle}} in writing maintainable code in non-trivial software projects</li>
 <li>Recognize a violation of the {{page.principle}} in existing code</li>
 <li>Write code that adheres to the {{page.principle}}</li>
 </ul>

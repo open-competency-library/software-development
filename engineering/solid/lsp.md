@@ -5,7 +5,7 @@ level: 0
 title: Liskov Substitution Master
 parent: SOLID Principles
 grand_parent: Engineering
-nav_order: 2
+nav_order: 4
 principle: Liskov Substitution Principle
 ---
 ### On Liskov Substitution Principle:

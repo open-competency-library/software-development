@@ -5,7 +5,7 @@ level: 6
 title: Open/Closed Master
 parent: SOLID Principles
 grand_parent: Engineering
-nav_order: 2
+nav_order: 3
 principle: Open/Closed Principle
 ---
 ### On Open/Closed Principle:
