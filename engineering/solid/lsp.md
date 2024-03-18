@@ -2,7 +2,7 @@
 layout: solid-module
 badge: Qm0d5Bz7TrWl7zSeea3kxA
 level: 0
-title: Liskov Substitution Principle
+title: Liskov Substitution Master
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

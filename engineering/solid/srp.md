@@ -2,7 +2,7 @@
 layout: solid-module
 badge: IJ2XbdzST0G5Ef0hnsgFzw
 level: 5
-title: Single Responsibility Principle
+title: Single Responsibility Master
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

@@ -2,7 +2,7 @@
 layout: solid-module
 badge: LhEOq2akS-GD7IeoFugI9w
 level: 0
-title: Interface Segregation Principle 
+title: Interface Segregation Master 
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

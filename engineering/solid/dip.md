@@ -2,7 +2,7 @@
 layout: solid-module
 badge: EIgt141QQ-KOxJjFvLwq5w
 level: 0
-title: Dependency Inversion Principle
+title: Dependency Inversion Master
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

@@ -2,7 +2,7 @@
 layout: solid-module
 badge: kcUXcQ53QECQSilxjxfEpw
 level: 6
-title: Open/Closed Principle
+title: Open/Closed Master
 parent: SOLID Principles
 grand_parent: Engineering
 nav_order: 2

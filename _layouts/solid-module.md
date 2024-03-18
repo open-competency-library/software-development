@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{page.principle}} Developer</h1>
 
-<p>A developer who strives to write code that adheres to the SOLID principles, especially the "{{page.principle}}".</p>
+<p>A software engineer who strives to write and maintain code that adheres to the SOLID principles, especially in the context of the "{{page.principle}}".</p>
 
 <p><hr/></p>
 
