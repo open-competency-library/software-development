@@ -1,25 +1,19 @@
 ---
 layout: module-with-evals
-badge: kVNbVyoWRAeV5k2gaBgLxQ
-level: 6
-title: CI/CD Developer 2
+badge: zmJudPw1RfCAAQFTgZ49HQ
+level: 5
+title: Continuous Integration Engineer
 parent: DevOps
 nav_order: 3
+description: A software engineer who can build and manage full Continuous Integration pipelines that can build and validate deployment artifacts continually.
 ---
-# CI/CD Developer 2
-
-
-A developer who can build and manage full CI/CD pipelines.
-
 ## Master the following skills:
 
 - Describe devops as it relates to culture, departments and roles
-- Compare/contrast Continuous Integration, Continuous Deployment and Continuous Delivery
-- Describe the purpose and process of Continuous Deployment
-- Configure the CD portion of a pipeline using YAML
-- Build a pipeline CI/CD that accomplishes the following things automatically on every push:
-  - deploys deliverables to a remote web server
-  - migrates a remote database
+- List a few of the more popular SaaS CI/CD options
+- Describe the purpose and process of CI
+- Configure a pipeline using YAML
+- Build a pipeline CI that automatically compiles code, runs tests and packages deliverables on every push
 
 ## Suggested Learning:
 
