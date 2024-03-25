@@ -13,21 +13,16 @@ A developer who can implement build backend applications using NodeJS and Expres
 
 ## Master the following skills:
 
-- Start a NodeJS application that uses Express
-- Explain what ExpressJS is and what purpose it serves
-- Build HTTP-based API endpoints with Express
-- Apply best practices in folder/file structure in an Expres application
 - Validate incoming HTTP requests with middleware
-- Route requests to different controller logic based on the shape of the request url
-- Implement routes with parameters and use them to influence output
-- Access querystring values and use them to influence output
+- Apply best practices in folder/file structure in an Expres application
+- Use middleware from external libraries to interact with HTTP requests before their primary handlers.
+- Create middleware to interact with HTTP requests before their primary handlers
 - Separate logic code from routes using modules and imports
 - Render HTML from a template and json data
-- Serve non-template static files with Express
-- Receive form data from HTTP request and use it to influence output
 - Debug Express application code with breakpoints
 - Allow CORS requests from all or specific origins
 - Utilize 3rd party plugins with an Express application
+- Handle runtime errors using global error handling
 
 ## Suggested Learning:
 

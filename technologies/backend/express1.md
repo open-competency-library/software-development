@@ -15,11 +15,14 @@ A developer who can implement build backend applications using NodeJS and Expres
 
 ## Master the following:
 
+- Explain what ExpressJS is and what purpose it serves
+- Start a NodeJS application that uses Express
 - Create REST API's using ExpressJS
-- Use the router
-- Parameterized urls
-- Use middleware from external libraries
-- Create middleware
+- Use the router to control the execution flow of HTTP requests
+- Route requests to different controller logic based on the shape of the request url
+- Utilize parameterized urls, querystring and JSON body to move information from HTTP requests to their handlers
+- Serve non-template static files with Express
+
 
 ## Suggested Learning:
 
