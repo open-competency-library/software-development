@@ -6,10 +6,8 @@ title: Email Sender 1
 parent: Back-End
 grand_parent: Technologies
 nav_order: 3
+description: A developer who can implement systems that send emails
 ---
-# Email Sender 1
-
-A developer who can implement systems that send emails
 
 ## Master the following skills:
 
