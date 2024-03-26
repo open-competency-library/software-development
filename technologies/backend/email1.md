@@ -21,5 +21,6 @@ description: A developer who can implement systems that send emails
 - [How Does Email Work](https://www.freecodecamp.org/news/how-does-email-work/){:target="\_blank"}
 - [How Emails Works](https://www.youtube.com/watch?v=x28ciavQ4mI){:target="\_blank"}
 - [Sending Email in Node.JS](https://www.w3schools.com/nodejs/nodejs_email.asp){:target="\_blank"}
+- [How to Send an Email from Your Gmail Account with Nodemailer](https://medium.com/@y.mehnati_49486/how-to-send-an-email-from-your-gmail-account-with-nodemailer-837bf09a7628){:target="\_blank"}
 - [Mailgun docs](https://www.mailgun.com/){:target="\_blank"}
 
