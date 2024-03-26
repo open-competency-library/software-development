@@ -16,7 +16,7 @@ A developer who can implement systems that send emails
 - Describe the systems that are involved in sending emails
 - Write code that sends email using an SMTP server
 - Write code that sends email using gmail
-- Write code that sends email using a mail service (SaaS)
+- Write code that sends email using a mail service (SaaS) via REST API request
 
 ## Suggested Learning:
 
